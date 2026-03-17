@@ -10,12 +10,13 @@ The app allows teams to score countries on **DPI maturity** and **AI maturity**,
 - Converts scores to weighted totals out of 100.
 - Classifies each country into one of four quadrants.
 - Shows a dashboard scatterplot (AI on X axis, DPI on Y axis).
-- Supports filtering by region, confidence, tags, and status.
+- Supports filtering by country, region, confidence, tags, and status.
 - Captures justifications, evidence, and optional dimension confidence.
 - Generates deterministic narrative summaries.
 - Persists all data in browser `localStorage`.
 - Supports JSON import/export, CSV export, and local backup/restore.
 - Includes optional demo seed data for 10 countries.
+- Assessment form can prefill any country from the baseline metadata list (without overwriting existing assessments).
 
 ## Project structure
 
@@ -23,7 +24,7 @@ The app allows teams to score countries on **DPI maturity** and **AI maturity**,
 - `styles.css` — clean policy-tool styling
 - `app.js` — data model, scoring, rendering, persistence, import/export logic
 - `sample-data.json` — seed dataset and default settings
-- `country-metadata-baseline.json` — auto-generated list of country metadata scaffolds (with `lastUpdated` timestamp) for quick country creation
+- `country-metadata-baseline.json` — metadata baseline aligned to UN e-Government Data Center + World Bank fields for quick country creation and prefill
 - `README.md` — usage and deployment instructions
 
 ## How to run locally
