@@ -74,9 +74,9 @@ No hardcoded absolute URLs are used. If the repository name changes, GitHub Page
 If you add links later, keep them **relative** (avoid leading `/`) to remain GitHub Pages subpath-safe.
 
 
-## Refreshing inequality and poverty metadata
+## Refreshing inequality, poverty, and population metadata
 
-To refresh `giniIndex` and `povertyPct` values in `country-metadata-baseline.json`, run:
+To refresh `giniIndex`, `povertyPct`, and `population` values in `country-metadata-baseline.json`, run:
 
 ```bash
 python3 scripts/update_gini_index.py
@@ -84,14 +84,18 @@ python3 scripts/update_gini_index.py
 
 Data sources used by default:
 - Gini index: World Bank indicator `SI.POV.GINI`
-- Poverty headcount metadata: `https://raw.githubusercontent.com/worldbank/pipdocs/main/metadata/json/WB_PIP_HEADCOUNT.json`
+- Poverty headcount metadata (CSV): `https://api.worldbank.org/pip/v1/pip?country=all&year=all&povline=3&ppp_version=2021&format=csv&fill_gaps=false`
+- Population size: World Bank indicator `SP.POP.TOTL`
 
 The updater keeps the latest non-null observation per ISO3 country code and writes it to matching baseline records. Countries/territories without available source data remain `null`.
 
 If direct network access is blocked, you can supply local source files:
 
 ```bash
-python3 scripts/update_gini_index.py --gini-file ./SI.POV.GINI.json --poverty-file ./WB_PIP_HEADCOUNT.json
+python3 scripts/update_gini_index.py \
+  --gini-file ./SI.POV.GINI.json \
+  --poverty-file ./pip_poverty.csv \
+  --population-file ./SP.POP.TOTL.json
 ```
 
 ## Data persistence model
