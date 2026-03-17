@@ -1,0 +1,82 @@
+{
+  "settings": {
+    "thresholds": {
+      "dpiThreshold": 50,
+      "aiThreshold": 50,
+      "dpiEquator": 50,
+      "goldenDpiMin": 70,
+      "goldenAiMin": 70
+    },
+    "dpiDimensions": [
+      { "key": "digitalIdentity", "name": "Digital Identity maturity", "weight": 20 },
+      { "key": "payments", "name": "Payments maturity", "weight": 20 },
+      { "key": "dataExchange", "name": "Data exchange / consent / interoperability maturity", "weight": 20 },
+      { "key": "credentialing", "name": "Credentialing / trust infrastructure", "weight": 10 },
+      { "key": "governance", "name": "Governance / safeguards / legal readiness", "weight": 10 },
+      { "key": "openness", "name": "Openness / interoperability / modularity", "weight": 10 },
+      { "key": "deliveryCapacity", "name": "Delivery capacity / institutional capability", "weight": 10 }
+    ],
+    "aiDimensions": [
+      { "key": "policyReadiness", "name": "National AI strategy / policy readiness", "weight": 15 },
+      { "key": "dataForAi", "name": "Data availability and governance for AI", "weight": 15 },
+      { "key": "aiTalent", "name": "AI talent and institutional capability", "weight": 15 },
+      { "key": "compute", "name": "Compute / infrastructure / cloud access", "weight": 10 },
+      { "key": "publicAdoption", "name": "AI adoption in public sector", "weight": 15 },
+      { "key": "ecosystem", "name": "AI ecosystem / private sector / academia", "weight": 10 },
+      { "key": "safeguards", "name": "Safeguards / accountability / risk management", "weight": 10 },
+      { "key": "alignment", "name": "Alignment of AI with DPI rails and workflows", "weight": 10 }
+    ]
+  },
+  "countries": [
+    {
+      "id": "ctry-tt",
+      "meta": {"countryName":"Trinidad and Tobago","isoCode":"TTO","region":"Caribbean","subregion":"Caribbean","population":1547000,"incomeGroup":"High income","evaluator":"Internal Team","evaluationDate":"2026-01-12","notes":"Placeholder assessment for pilot.","tags":["pilot","small-state"],"overallConfidence":3},
+      "assessments": {"dpi":{"digitalIdentity":{"score":2.8,"justification":"Identity stack in progress","evidence":"Placeholder source","confidence":3},"payments":{"score":3.0,"justification":"Digital payments adoption growing","evidence":"Placeholder source","confidence":3},"dataExchange":{"score":2.3,"justification":"Interoperability fragmented","evidence":"Placeholder source","confidence":2},"credentialing":{"score":2.4,"justification":"Limited credentials framework","evidence":"Placeholder source","confidence":2},"governance":{"score":2.8,"justification":"Legal framework evolving","evidence":"Placeholder source","confidence":3},"openness":{"score":2.5,"justification":"Modularity partial","evidence":"Placeholder source","confidence":2},"deliveryCapacity":{"score":2.7,"justification":"Delivery teams improving","evidence":"Placeholder source","confidence":3}},"ai":{"policyReadiness":{"score":2.7,"justification":"Initial policy readiness","evidence":"Placeholder source","confidence":3},"dataForAi":{"score":2.4,"justification":"Data quality mixed","evidence":"Placeholder source","confidence":2},"aiTalent":{"score":2.2,"justification":"Talent pool emerging","evidence":"Placeholder source","confidence":2},"compute":{"score":2.5,"justification":"Cloud access available","evidence":"Placeholder source","confidence":3},"publicAdoption":{"score":2.1,"justification":"Pilots limited","evidence":"Placeholder source","confidence":2},"ecosystem":{"score":2.3,"justification":"Private ecosystem modest","evidence":"Placeholder source","confidence":2},"safeguards":{"score":2.6,"justification":"Baseline safeguards","evidence":"Placeholder source","confidence":3},"alignment":{"score":2.0,"justification":"Alignment early stage","evidence":"Placeholder source","confidence":2}}}
+    },
+    {
+      "id": "ctry-ind",
+      "meta": {"countryName":"India","isoCode":"IND","region":"South Asia","subregion":"Asia","population":1428000000,"incomeGroup":"Lower middle income","evaluator":"Internal Team","evaluationDate":"2026-01-15","notes":"Placeholder values.","tags":["scale","dpi-leader"],"overallConfidence":4},
+      "assessments": {"dpi":{"digitalIdentity":{"score":4.8},"payments":{"score":4.7},"dataExchange":{"score":4.3},"credentialing":{"score":4.0},"governance":{"score":3.7},"openness":{"score":4.2},"deliveryCapacity":{"score":4.0}},"ai":{"policyReadiness":{"score":4.0},"dataForAi":{"score":3.8},"aiTalent":{"score":4.2},"compute":{"score":3.7},"publicAdoption":{"score":3.6},"ecosystem":{"score":4.0},"safeguards":{"score":3.5},"alignment":{"score":4.1}}}
+    },
+    {
+      "id": "ctry-bra",
+      "meta": {"countryName":"Brazil","isoCode":"BRA","region":"Latin America","subregion":"South America","population":203000000,"incomeGroup":"Upper middle income","evaluator":"Internal Team","evaluationDate":"2026-01-18","notes":"Placeholder values.","tags":["federal","large-market"],"overallConfidence":3},
+      "assessments": {"dpi":{"digitalIdentity":{"score":3.6},"payments":{"score":4.0},"dataExchange":{"score":3.2},"credentialing":{"score":3.1},"governance":{"score":3.3},"openness":{"score":3.0},"deliveryCapacity":{"score":3.4}},"ai":{"policyReadiness":{"score":3.4},"dataForAi":{"score":3.1},"aiTalent":{"score":3.5},"compute":{"score":3.4},"publicAdoption":{"score":3.0},"ecosystem":{"score":3.4},"safeguards":{"score":3.0},"alignment":{"score":2.9}}}
+    },
+    {
+      "id": "ctry-est",
+      "meta": {"countryName":"Estonia","isoCode":"EST","region":"Europe","subregion":"Northern Europe","population":1360000,"incomeGroup":"High income","evaluator":"Internal Team","evaluationDate":"2026-01-10","notes":"Placeholder values.","tags":["digital-government","interoperability"],"overallConfidence":4},
+      "assessments": {"dpi":{"digitalIdentity":{"score":4.7},"payments":{"score":4.2},"dataExchange":{"score":4.8},"credentialing":{"score":4.6},"governance":{"score":4.1},"openness":{"score":4.5},"deliveryCapacity":{"score":4.3}},"ai":{"policyReadiness":{"score":3.9},"dataForAi":{"score":4.0},"aiTalent":{"score":3.8},"compute":{"score":3.7},"publicAdoption":{"score":3.9},"ecosystem":{"score":3.6},"safeguards":{"score":4.0},"alignment":{"score":4.2}}}
+    },
+    {
+      "id": "ctry-ken",
+      "meta": {"countryName":"Kenya","isoCode":"KEN","region":"Africa","subregion":"East Africa","population":55100000,"incomeGroup":"Lower middle income","evaluator":"Internal Team","evaluationDate":"2026-01-19","notes":"Placeholder values.","tags":["mobile-money","emerging"],"overallConfidence":3},
+      "assessments": {"dpi":{"digitalIdentity":{"score":3.2},"payments":{"score":4.1},"dataExchange":{"score":2.7},"credentialing":{"score":2.6},"governance":{"score":2.8},"openness":{"score":2.9},"deliveryCapacity":{"score":2.9}},"ai":{"policyReadiness":{"score":2.9},"dataForAi":{"score":2.6},"aiTalent":{"score":2.7},"compute":{"score":2.8},"publicAdoption":{"score":2.5},"ecosystem":{"score":2.8},"safeguards":{"score":2.6},"alignment":{"score":2.4}}}
+    },
+    {
+      "id": "ctry-nga",
+      "meta": {"countryName":"Nigeria","isoCode":"NGA","region":"Africa","subregion":"West Africa","population":223000000,"incomeGroup":"Lower middle income","evaluator":"Internal Team","evaluationDate":"2026-01-21","notes":"Placeholder values.","tags":["large-population","startup-ecosystem"],"overallConfidence":3},
+      "assessments": {"dpi":{"digitalIdentity":{"score":2.7},"payments":{"score":3.3},"dataExchange":{"score":2.4},"credentialing":{"score":2.5},"governance":{"score":2.5},"openness":{"score":2.6},"deliveryCapacity":{"score":2.7}},"ai":{"policyReadiness":{"score":2.8},"dataForAi":{"score":2.5},"aiTalent":{"score":2.9},"compute":{"score":2.7},"publicAdoption":{"score":2.6},"ecosystem":{"score":3.0},"safeguards":{"score":2.3},"alignment":{"score":2.2}}}
+    },
+    {
+      "id": "ctry-per",
+      "meta": {"countryName":"Peru","isoCode":"PER","region":"Latin America","subregion":"South America","population":34200000,"incomeGroup":"Upper middle income","evaluator":"Internal Team","evaluationDate":"2026-01-16","notes":"Placeholder values.","tags":["intermediate"],"overallConfidence":3},
+      "assessments": {"dpi":{"digitalIdentity":{"score":3.1},"payments":{"score":3.2},"dataExchange":{"score":2.8},"credentialing":{"score":2.7},"governance":{"score":3.0},"openness":{"score":2.8},"deliveryCapacity":{"score":2.9}},"ai":{"policyReadiness":{"score":2.9},"dataForAi":{"score":2.8},"aiTalent":{"score":2.9},"compute":{"score":2.8},"publicAdoption":{"score":2.6},"ecosystem":{"score":2.7},"safeguards":{"score":2.8},"alignment":{"score":2.5}}}
+    },
+    {
+      "id": "ctry-zaf",
+      "meta": {"countryName":"South Africa","isoCode":"ZAF","region":"Africa","subregion":"Southern Africa","population":60400000,"incomeGroup":"Upper middle income","evaluator":"Internal Team","evaluationDate":"2026-01-20","notes":"Placeholder values.","tags":["advanced-services"],"overallConfidence":4},
+      "assessments": {"dpi":{"digitalIdentity":{"score":3.5},"payments":{"score":3.8},"dataExchange":{"score":3.1},"credentialing":{"score":3.0},"governance":{"score":3.3},"openness":{"score":3.2},"deliveryCapacity":{"score":3.3}},"ai":{"policyReadiness":{"score":3.3},"dataForAi":{"score":3.2},"aiTalent":{"score":3.4},"compute":{"score":3.3},"publicAdoption":{"score":3.1},"ecosystem":{"score":3.4},"safeguards":{"score":3.1},"alignment":{"score":3.0}}}
+    },
+    {
+      "id": "ctry-usa",
+      "meta": {"countryName":"United States","isoCode":"USA","region":"North America","subregion":"North America","population":334000000,"incomeGroup":"High income","evaluator":"Internal Team","evaluationDate":"2026-01-14","notes":"Placeholder values.","tags":["ai-leader","federal"],"overallConfidence":4},
+      "assessments": {"dpi":{"digitalIdentity":{"score":3.9},"payments":{"score":4.2},"dataExchange":{"score":3.7},"credentialing":{"score":3.8},"governance":{"score":3.5},"openness":{"score":3.4},"deliveryCapacity":{"score":3.8}},"ai":{"policyReadiness":{"score":4.5},"dataForAi":{"score":4.4},"aiTalent":{"score":4.8},"compute":{"score":4.9},"publicAdoption":{"score":4.1},"ecosystem":{"score":4.9},"safeguards":{"score":3.8},"alignment":{"score":4.0}}}
+    },
+    {
+      "id": "ctry-uae",
+      "meta": {"countryName":"United Arab Emirates","isoCode":"ARE","region":"Middle East","subregion":"Gulf","population":9500000,"incomeGroup":"High income","evaluator":"Internal Team","evaluationDate":"2026-01-13","notes":"Placeholder values.","tags":["strategy-led","innovation"],"overallConfidence":4},
+      "assessments": {"dpi":{"digitalIdentity":{"score":4.1},"payments":{"score":4.0},"dataExchange":{"score":3.8},"credentialing":{"score":3.9},"governance":{"score":3.7},"openness":{"score":3.6},"deliveryCapacity":{"score":3.8}},"ai":{"policyReadiness":{"score":4.4},"dataForAi":{"score":4.0},"aiTalent":{"score":4.1},"compute":{"score":4.2},"publicAdoption":{"score":4.0},"ecosystem":{"score":4.1},"safeguards":{"score":3.8},"alignment":{"score":3.9}}}
+    }
+  ]
+}
