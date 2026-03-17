@@ -73,6 +73,17 @@ No hardcoded absolute URLs are used. If the repository name changes, GitHub Page
 
 If you add links later, keep them **relative** (avoid leading `/`) to remain GitHub Pages subpath-safe.
 
+
+## Refreshing Gini Index metadata
+
+To refresh `giniIndex` values in `country-metadata-baseline.json` from the World Bank indicator `SI.POV.GINI`, run:
+
+```bash
+python3 scripts/update_gini_index.py
+```
+
+The script pulls the latest non-null observation per ISO3 country code and updates matching baseline records. Countries/territories without a World Bank value remain `null`.
+
 ## Data persistence model
 
 - Primary persistence: browser `localStorage`
