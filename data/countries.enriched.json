@@ -1,0 +1,7485 @@
+{
+  "metadata": {
+    "generatedAt": "2026-03-17T06:02:52.493Z",
+    "sources": [
+      "dpimap",
+      "un-egov"
+    ],
+    "weights": {
+      "dpimap": 0.7,
+      "egdi": 0.3
+    }
+  },
+  "countries": [
+    {
+      "name": "Afghanistan",
+      "iso2": "",
+      "iso3": "AFG",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Albania",
+      "iso2": "",
+      "iso3": "ALB",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Algeria",
+      "iso2": "",
+      "iso3": "DZA",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "American Samoa",
+      "iso2": "",
+      "iso3": "ASM",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Andorra",
+      "iso2": "",
+      "iso3": "AND",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Angola",
+      "iso2": "",
+      "iso3": "AGO",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Anguilla",
+      "iso2": "",
+      "iso3": "AIA",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Antarctica",
+      "iso2": "",
+      "iso3": "ATA",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Antigua and Barbuda",
+      "iso2": "",
+      "iso3": "ATG",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Argentina",
+      "iso2": "",
+      "iso3": "ARG",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Armenia",
+      "iso2": "",
+      "iso3": "ARM",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Aruba",
+      "iso2": "",
+      "iso3": "ABW",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Australia",
+      "iso2": "",
+      "iso3": "AUS",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Austria",
+      "iso2": "",
+      "iso3": "AUT",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Azerbaijan",
+      "iso2": "",
+      "iso3": "AZE",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Bahamas",
+      "iso2": "",
+      "iso3": "BHS",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Bahrain",
+      "iso2": "",
+      "iso3": "BHR",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Bangladesh",
+      "iso2": "",
+      "iso3": "BGD",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Barbados",
+      "iso2": "",
+      "iso3": "BRB",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Belarus",
+      "iso2": "",
+      "iso3": "BLR",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Belgium",
+      "iso2": "",
+      "iso3": "BEL",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Belize",
+      "iso2": "",
+      "iso3": "BLZ",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Benin",
+      "iso2": "",
+      "iso3": "BEN",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Bermuda",
+      "iso2": "",
+      "iso3": "BMU",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Bhutan",
+      "iso2": "",
+      "iso3": "BTN",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Bolivia",
+      "iso2": "",
+      "iso3": "BOL",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Bonaire, Sint Eustatius and Saba",
+      "iso2": "",
+      "iso3": "BES",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Bosnia and Herzegovina",
+      "iso2": "",
+      "iso3": "BIH",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Botswana",
+      "iso2": "",
+      "iso3": "BWA",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Bouvet Island",
+      "iso2": "",
+      "iso3": "BVT",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Brazil",
+      "iso2": "",
+      "iso3": "BRA",
+      "region": "Latin America",
+      "subregion": "South America",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": 0.73,
+          "rank": 49,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 21.9,
+        "stateCapacityScore": 73,
+        "aiBaseScore": 43.8,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "British Indian Ocean Territory",
+      "iso2": "",
+      "iso3": "IOT",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Brunei Darussalam",
+      "iso2": "",
+      "iso3": "BRN",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Bulgaria",
+      "iso2": "",
+      "iso3": "BGR",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Burkina Faso",
+      "iso2": "",
+      "iso3": "BFA",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Burundi",
+      "iso2": "",
+      "iso3": "BDI",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Cabo Verde",
+      "iso2": "",
+      "iso3": "CPV",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Cambodia",
+      "iso2": "",
+      "iso3": "KHM",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Cameroon",
+      "iso2": "",
+      "iso3": "CMR",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Canada",
+      "iso2": "",
+      "iso3": "CAN",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Cayman Islands",
+      "iso2": "",
+      "iso3": "CYM",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Central African Republic",
+      "iso2": "",
+      "iso3": "CAF",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Chad",
+      "iso2": "",
+      "iso3": "TCD",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Chile",
+      "iso2": "",
+      "iso3": "CHL",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "China",
+      "iso2": "",
+      "iso3": "CHN",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Christmas Island",
+      "iso2": "",
+      "iso3": "CXR",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Cocos (Keeling) Islands",
+      "iso2": "",
+      "iso3": "CCK",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Colombia",
+      "iso2": "",
+      "iso3": "COL",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Comoros",
+      "iso2": "",
+      "iso3": "COM",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Congo",
+      "iso2": "",
+      "iso3": "COG",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Congo, The Democratic Republic of the",
+      "iso2": "",
+      "iso3": "COD",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Cook Islands",
+      "iso2": "",
+      "iso3": "COK",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Costa Rica",
+      "iso2": "",
+      "iso3": "CRI",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Croatia",
+      "iso2": "",
+      "iso3": "HRV",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Cuba",
+      "iso2": "",
+      "iso3": "CUB",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Curaçao",
+      "iso2": "",
+      "iso3": "CUW",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Cyprus",
+      "iso2": "",
+      "iso3": "CYP",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Czechia",
+      "iso2": "",
+      "iso3": "CZE",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Côte d'Ivoire",
+      "iso2": "",
+      "iso3": "CIV",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Denmark",
+      "iso2": "",
+      "iso3": "DNK",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Djibouti",
+      "iso2": "",
+      "iso3": "DJI",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Dominica",
+      "iso2": "",
+      "iso3": "DMA",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Dominican Republic",
+      "iso2": "",
+      "iso3": "DOM",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Ecuador",
+      "iso2": "",
+      "iso3": "ECU",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Egypt",
+      "iso2": "",
+      "iso3": "EGY",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "El Salvador",
+      "iso2": "",
+      "iso3": "SLV",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Equatorial Guinea",
+      "iso2": "",
+      "iso3": "GNQ",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Eritrea",
+      "iso2": "",
+      "iso3": "ERI",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Estonia",
+      "iso2": "",
+      "iso3": "EST",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": 0.94,
+          "rank": 16,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 28.2,
+        "stateCapacityScore": 94,
+        "aiBaseScore": 56.4,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Eswatini",
+      "iso2": "",
+      "iso3": "SWZ",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Ethiopia",
+      "iso2": "",
+      "iso3": "ETH",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Falkland Islands (Malvinas)",
+      "iso2": "",
+      "iso3": "FLK",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Faroe Islands",
+      "iso2": "",
+      "iso3": "FRO",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Fiji",
+      "iso2": "",
+      "iso3": "FJI",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Finland",
+      "iso2": "",
+      "iso3": "FIN",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "France",
+      "iso2": "",
+      "iso3": "FRA",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "French Guiana",
+      "iso2": "",
+      "iso3": "GUF",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "French Polynesia",
+      "iso2": "",
+      "iso3": "PYF",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "French Southern Territories",
+      "iso2": "",
+      "iso3": "ATF",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Gabon",
+      "iso2": "",
+      "iso3": "GAB",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Gambia",
+      "iso2": "",
+      "iso3": "GMB",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Georgia",
+      "iso2": "",
+      "iso3": "GEO",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Germany",
+      "iso2": "",
+      "iso3": "DEU",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Ghana",
+      "iso2": "",
+      "iso3": "GHA",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Gibraltar",
+      "iso2": "",
+      "iso3": "GIB",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Greece",
+      "iso2": "",
+      "iso3": "GRC",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Greenland",
+      "iso2": "",
+      "iso3": "GRL",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Grenada",
+      "iso2": "",
+      "iso3": "GRD",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Guadeloupe",
+      "iso2": "",
+      "iso3": "GLP",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Guam",
+      "iso2": "",
+      "iso3": "GUM",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Guatemala",
+      "iso2": "",
+      "iso3": "GTM",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Guernsey",
+      "iso2": "",
+      "iso3": "GGY",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Guinea",
+      "iso2": "",
+      "iso3": "GIN",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Guinea-Bissau",
+      "iso2": "",
+      "iso3": "GNB",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Guyana",
+      "iso2": "",
+      "iso3": "GUY",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Haiti",
+      "iso2": "",
+      "iso3": "HTI",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Heard Island and McDonald Islands",
+      "iso2": "",
+      "iso3": "HMD",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Holy See (Vatican City State)",
+      "iso2": "",
+      "iso3": "VAT",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Honduras",
+      "iso2": "",
+      "iso3": "HND",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Hong Kong",
+      "iso2": "",
+      "iso3": "HKG",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Hungary",
+      "iso2": "",
+      "iso3": "HUN",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Iceland",
+      "iso2": "",
+      "iso3": "ISL",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "India",
+      "iso2": "",
+      "iso3": "IND",
+      "region": "South Asia",
+      "subregion": "Asia",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": 0.75,
+          "rank": 97,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 22.5,
+        "stateCapacityScore": 75,
+        "aiBaseScore": 45,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Indonesia",
+      "iso2": "",
+      "iso3": "IDN",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Iran",
+      "iso2": "",
+      "iso3": "IRN",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Iraq",
+      "iso2": "",
+      "iso3": "IRQ",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Ireland",
+      "iso2": "",
+      "iso3": "IRL",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Isle of Man",
+      "iso2": "",
+      "iso3": "IMN",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Israel",
+      "iso2": "",
+      "iso3": "ISR",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Italy",
+      "iso2": "",
+      "iso3": "ITA",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Jamaica",
+      "iso2": "",
+      "iso3": "JAM",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Japan",
+      "iso2": "",
+      "iso3": "JPN",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Jersey",
+      "iso2": "",
+      "iso3": "JEY",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Jordan",
+      "iso2": "",
+      "iso3": "JOR",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Kazakhstan",
+      "iso2": "",
+      "iso3": "KAZ",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Kenya",
+      "iso2": "",
+      "iso3": "KEN",
+      "region": "Africa",
+      "subregion": "East Africa",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": 0.62,
+          "rank": 116,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 18.6,
+        "stateCapacityScore": 62,
+        "aiBaseScore": 37.2,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Kiribati",
+      "iso2": "",
+      "iso3": "KIR",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Kuwait",
+      "iso2": "",
+      "iso3": "KWT",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Kyrgyzstan",
+      "iso2": "",
+      "iso3": "KGZ",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Laos",
+      "iso2": "",
+      "iso3": "LAO",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Latvia",
+      "iso2": "",
+      "iso3": "LVA",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Lebanon",
+      "iso2": "",
+      "iso3": "LBN",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Lesotho",
+      "iso2": "",
+      "iso3": "LSO",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Liberia",
+      "iso2": "",
+      "iso3": "LBR",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Libya",
+      "iso2": "",
+      "iso3": "LBY",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Liechtenstein",
+      "iso2": "",
+      "iso3": "LIE",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Lithuania",
+      "iso2": "",
+      "iso3": "LTU",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Luxembourg",
+      "iso2": "",
+      "iso3": "LUX",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Macao",
+      "iso2": "",
+      "iso3": "MAC",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Madagascar",
+      "iso2": "",
+      "iso3": "MDG",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Malawi",
+      "iso2": "",
+      "iso3": "MWI",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Malaysia",
+      "iso2": "",
+      "iso3": "MYS",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Maldives",
+      "iso2": "",
+      "iso3": "MDV",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Mali",
+      "iso2": "",
+      "iso3": "MLI",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Malta",
+      "iso2": "",
+      "iso3": "MLT",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Marshall Islands",
+      "iso2": "",
+      "iso3": "MHL",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Martinique",
+      "iso2": "",
+      "iso3": "MTQ",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Mauritania",
+      "iso2": "",
+      "iso3": "MRT",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Mauritius",
+      "iso2": "",
+      "iso3": "MUS",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Mayotte",
+      "iso2": "",
+      "iso3": "MYT",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Mexico",
+      "iso2": "",
+      "iso3": "MEX",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Micronesia, Federated States of",
+      "iso2": "",
+      "iso3": "FSM",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Moldova",
+      "iso2": "",
+      "iso3": "MDA",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Monaco",
+      "iso2": "",
+      "iso3": "MCO",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Mongolia",
+      "iso2": "",
+      "iso3": "MNG",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Montenegro",
+      "iso2": "",
+      "iso3": "MNE",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Montserrat",
+      "iso2": "",
+      "iso3": "MSR",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Morocco",
+      "iso2": "",
+      "iso3": "MAR",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Mozambique",
+      "iso2": "",
+      "iso3": "MOZ",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Myanmar",
+      "iso2": "",
+      "iso3": "MMR",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Namibia",
+      "iso2": "",
+      "iso3": "NAM",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Nauru",
+      "iso2": "",
+      "iso3": "NRU",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Nepal",
+      "iso2": "",
+      "iso3": "NPL",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Netherlands",
+      "iso2": "",
+      "iso3": "NLD",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "New Caledonia",
+      "iso2": "",
+      "iso3": "NCL",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "New Zealand",
+      "iso2": "",
+      "iso3": "NZL",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Nicaragua",
+      "iso2": "",
+      "iso3": "NIC",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Niger",
+      "iso2": "",
+      "iso3": "NER",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Nigeria",
+      "iso2": "",
+      "iso3": "NGA",
+      "region": "Africa",
+      "subregion": "West Africa",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": 0.53,
+          "rank": 140,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 15.9,
+        "stateCapacityScore": 53,
+        "aiBaseScore": 31.8,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Niue",
+      "iso2": "",
+      "iso3": "NIU",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Norfolk Island",
+      "iso2": "",
+      "iso3": "NFK",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "North Korea",
+      "iso2": "",
+      "iso3": "PRK",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "North Macedonia",
+      "iso2": "",
+      "iso3": "MKD",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Northern Mariana Islands",
+      "iso2": "",
+      "iso3": "MNP",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Norway",
+      "iso2": "",
+      "iso3": "NOR",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Oman",
+      "iso2": "",
+      "iso3": "OMN",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Pakistan",
+      "iso2": "",
+      "iso3": "PAK",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Palau",
+      "iso2": "",
+      "iso3": "PLW",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Palestine, State of",
+      "iso2": "",
+      "iso3": "PSE",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Panama",
+      "iso2": "",
+      "iso3": "PAN",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Papua New Guinea",
+      "iso2": "",
+      "iso3": "PNG",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Paraguay",
+      "iso2": "",
+      "iso3": "PRY",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Peru",
+      "iso2": "",
+      "iso3": "PER",
+      "region": "Latin America",
+      "subregion": "South America",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": 0.76,
+          "rank": 59,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 22.8,
+        "stateCapacityScore": 76,
+        "aiBaseScore": 45.6,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Philippines",
+      "iso2": "",
+      "iso3": "PHL",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Pitcairn",
+      "iso2": "",
+      "iso3": "PCN",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Poland",
+      "iso2": "",
+      "iso3": "POL",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Portugal",
+      "iso2": "",
+      "iso3": "PRT",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Puerto Rico",
+      "iso2": "",
+      "iso3": "PRI",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Qatar",
+      "iso2": "",
+      "iso3": "QAT",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Romania",
+      "iso2": "",
+      "iso3": "ROU",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Russian Federation",
+      "iso2": "",
+      "iso3": "RUS",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Rwanda",
+      "iso2": "",
+      "iso3": "RWA",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Réunion",
+      "iso2": "",
+      "iso3": "REU",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Saint Barthélemy",
+      "iso2": "",
+      "iso3": "BLM",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Saint Helena, Ascension and Tristan da Cunha",
+      "iso2": "",
+      "iso3": "SHN",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Saint Kitts and Nevis",
+      "iso2": "",
+      "iso3": "KNA",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Saint Lucia",
+      "iso2": "",
+      "iso3": "LCA",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Saint Martin (French part)",
+      "iso2": "",
+      "iso3": "MAF",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Saint Pierre and Miquelon",
+      "iso2": "",
+      "iso3": "SPM",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Saint Vincent and the Grenadines",
+      "iso2": "",
+      "iso3": "VCT",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Samoa",
+      "iso2": "",
+      "iso3": "WSM",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "San Marino",
+      "iso2": "",
+      "iso3": "SMR",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Sao Tome and Principe",
+      "iso2": "",
+      "iso3": "STP",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Saudi Arabia",
+      "iso2": "",
+      "iso3": "SAU",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Senegal",
+      "iso2": "",
+      "iso3": "SEN",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Serbia",
+      "iso2": "",
+      "iso3": "SRB",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Seychelles",
+      "iso2": "",
+      "iso3": "SYC",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Sierra Leone",
+      "iso2": "",
+      "iso3": "SLE",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Singapore",
+      "iso2": "",
+      "iso3": "SGP",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Sint Maarten (Dutch part)",
+      "iso2": "",
+      "iso3": "SXM",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Slovakia",
+      "iso2": "",
+      "iso3": "SVK",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Slovenia",
+      "iso2": "",
+      "iso3": "SVN",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Solomon Islands",
+      "iso2": "",
+      "iso3": "SLB",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Somalia",
+      "iso2": "",
+      "iso3": "SOM",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "South Africa",
+      "iso2": "",
+      "iso3": "ZAF",
+      "region": "Africa",
+      "subregion": "Southern Africa",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": 0.74,
+          "rank": 65,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 22.2,
+        "stateCapacityScore": 74,
+        "aiBaseScore": 44.4,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "South Georgia and the South Sandwich Islands",
+      "iso2": "",
+      "iso3": "SGS",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "South Korea",
+      "iso2": "",
+      "iso3": "KOR",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "South Sudan",
+      "iso2": "",
+      "iso3": "SSD",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Spain",
+      "iso2": "",
+      "iso3": "ESP",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Sri Lanka",
+      "iso2": "",
+      "iso3": "LKA",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Sudan",
+      "iso2": "",
+      "iso3": "SDN",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Suriname",
+      "iso2": "",
+      "iso3": "SUR",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Svalbard and Jan Mayen",
+      "iso2": "",
+      "iso3": "SJM",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Sweden",
+      "iso2": "",
+      "iso3": "SWE",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Switzerland",
+      "iso2": "",
+      "iso3": "CHE",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Syria",
+      "iso2": "",
+      "iso3": "SYR",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Taiwan",
+      "iso2": "",
+      "iso3": "TWN",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Tajikistan",
+      "iso2": "",
+      "iso3": "TJK",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Tanzania",
+      "iso2": "",
+      "iso3": "TZA",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Thailand",
+      "iso2": "",
+      "iso3": "THA",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Timor-Leste",
+      "iso2": "",
+      "iso3": "TLS",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Togo",
+      "iso2": "",
+      "iso3": "TGO",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Tokelau",
+      "iso2": "",
+      "iso3": "TKL",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Tonga",
+      "iso2": "",
+      "iso3": "TON",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Trinidad and Tobago",
+      "iso2": "",
+      "iso3": "TTO",
+      "region": "Caribbean",
+      "subregion": "Caribbean",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": 0.79,
+          "rank": 61,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 23.7,
+        "stateCapacityScore": 79,
+        "aiBaseScore": 47.4,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Tunisia",
+      "iso2": "",
+      "iso3": "TUN",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Turkmenistan",
+      "iso2": "",
+      "iso3": "TKM",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Turks and Caicos Islands",
+      "iso2": "",
+      "iso3": "TCA",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Tuvalu",
+      "iso2": "",
+      "iso3": "TUV",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Türkiye",
+      "iso2": "",
+      "iso3": "TUR",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Uganda",
+      "iso2": "",
+      "iso3": "UGA",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Ukraine",
+      "iso2": "",
+      "iso3": "UKR",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "United Arab Emirates",
+      "iso2": "",
+      "iso3": "ARE",
+      "region": "Middle East",
+      "subregion": "Gulf",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": 0.9,
+          "rank": 11,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 27,
+        "stateCapacityScore": 90,
+        "aiBaseScore": 54,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "United Kingdom",
+      "iso2": "",
+      "iso3": "GBR",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "United States",
+      "iso2": "",
+      "iso3": "USA",
+      "region": "North America",
+      "subregion": "North America",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": 0.93,
+          "rank": 19,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 27.9,
+        "stateCapacityScore": 93,
+        "aiBaseScore": 55.8,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "United States Minor Outlying Islands",
+      "iso2": "",
+      "iso3": "UMI",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Uruguay",
+      "iso2": "",
+      "iso3": "URY",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Uzbekistan",
+      "iso2": "",
+      "iso3": "UZB",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Vanuatu",
+      "iso2": "",
+      "iso3": "VUT",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Venezuela",
+      "iso2": "",
+      "iso3": "VEN",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Vietnam",
+      "iso2": "",
+      "iso3": "VNM",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Virgin Islands, British",
+      "iso2": "",
+      "iso3": "VGB",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Virgin Islands, U.S.",
+      "iso2": "",
+      "iso3": "VIR",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Wallis and Futuna",
+      "iso2": "",
+      "iso3": "WLF",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Western Sahara",
+      "iso2": "",
+      "iso3": "ESH",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Yemen",
+      "iso2": "",
+      "iso3": "YEM",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Zambia",
+      "iso2": "",
+      "iso3": "ZMB",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Zimbabwe",
+      "iso2": "",
+      "iso3": "ZWE",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    },
+    {
+      "name": "Åland Islands",
+      "iso2": "",
+      "iso3": "ALA",
+      "region": "Unknown",
+      "subregion": "Unknown",
+      "sources": {
+        "dpimap": {
+          "available": false,
+          "pillars": {},
+          "summary": {}
+        },
+        "unegov": {
+          "available": true,
+          "egdi": null,
+          "rank": null,
+          "osi": null,
+          "tcii": null,
+          "hcii": null
+        }
+      },
+      "derived": {
+        "dpiBaseScore": 0,
+        "stateCapacityScore": 0,
+        "aiBaseScore": 0,
+        "confidence": "medium",
+        "dataCompleteness": "medium",
+        "aiEstimated": true
+      }
+    }
+  ]
+}

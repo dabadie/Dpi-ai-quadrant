@@ -1,251 +1,66 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Centre for DPI — Country AI/DPI Assessment</title>
+  <title>DPI / AI Quadrant Dashboard</title>
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
   <header class="app-header">
     <div>
-      <h1>Country AI/DPI Maturity Assessment</h1>
-      <p class="subtitle">Internal tool for plotting countries across DPI and AI maturity.</p>
+      <h1>DPI / AI Quadrant Dashboard</h1>
+      <p class="subtitle">Static GitHub Pages app with prebuilt country datasets and manual overrides.</p>
     </div>
-    <nav class="top-nav">
-      <button data-section="dashboard" class="nav-btn active">Dashboard</button>
-      <button data-section="assessment" class="nav-btn">Country Assessment</button>
-      <button data-section="methodology" class="nav-btn">Methodology</button>
-      <button data-section="data" class="nav-btn">Data</button>
-    </nav>
   </header>
 
   <main>
-    <section id="dashboard" class="panel section active">
-      <div class="section-header">
-        <h2>Dashboard</h2>
-        <p>Scatterplot of country positions on AI (X) vs DPI (Y).</p>
+    <section class="panel">
+      <h2>Dashboard</h2>
+      <div class="filters">
+        <input id="search" placeholder="Search country / ISO" />
+        <select id="filter-region"><option value="all">All regions</option></select>
+        <select id="filter-confidence">
+          <option value="all">All confidence</option>
+          <option value="high">High</option>
+          <option value="medium">Medium</option>
+          <option value="low">Low</option>
+        </select>
+        <select id="filter-completeness">
+          <option value="all">All completeness</option>
+          <option value="high">High</option>
+          <option value="medium">Medium</option>
+          <option value="low">Low</option>
+        </select>
+        <label><input type="checkbox" id="show-incomplete" checked /> Show incomplete</label>
       </div>
-
-      <div class="grid two-col">
-        <div class="panel subtle">
-          <h3>Filters</h3>
-          <div class="form-grid compact">
-            <label>Country
-              <select id="filter-country"><option value="all">All</option></select>
-            </label>
-            <label>Region
-              <select id="filter-region"><option value="all">All</option></select>
-            </label>
-            <label>Minimum Confidence
-              <select id="filter-confidence">
-                <option value="0">Any</option>
-                <option value="1">1+</option>
-                <option value="2">2+</option>
-                <option value="3">3+</option>
-                <option value="4">4+</option>
-                <option value="5">5</option>
-              </select>
-            </label>
-            <label>Status
-              <select id="filter-status">
-                <option value="all">All</option>
-                <option value="above">Above DPI Equator</option>
-                <option value="below">Below DPI Equator</option>
-                <option value="golden">Golden Zone</option>
-              </select>
-            </label>
-            <label>Tag contains
-              <input id="filter-tag" type="text" placeholder="e.g. digital-public-infrastructure" />
-            </label>
-          </div>
-          <label class="inline-check"><input type="checkbox" id="toggle-labels" checked /> Show country labels</label>
-        </div>
-
-        <div class="panel subtle">
-          <h3>Thresholds & Zones</h3>
-          <div class="form-grid compact">
-            <label>DPI Threshold
-              <input id="setting-dpi-threshold" type="number" min="0" max="100" />
-            </label>
-            <label>AI Threshold
-              <input id="setting-ai-threshold" type="number" min="0" max="100" />
-            </label>
-            <label>DPI Equator
-              <input id="setting-dpi-equator" type="number" min="0" max="100" />
-            </label>
-            <label>Golden Zone AI Min
-              <input id="setting-golden-ai" type="number" min="0" max="100" />
-            </label>
-            <label>Golden Zone DPI Min
-              <input id="setting-golden-dpi" type="number" min="0" max="100" />
-            </label>
-          </div>
-          <button id="save-thresholds" class="btn">Save Thresholds</button>
-        </div>
-      </div>
-
-      <div class="panel chart-panel">
-        <canvas id="scatterplot" width="960" height="540"></canvas>
-        <p class="small">Click a point to open that country in the assessment form.</p>
-      </div>
-
-      <div class="panel">
-        <h3>Country Summary</h3>
-        <div class="table-wrap">
-          <table id="country-table">
-            <thead>
-              <tr>
-                <th>Country</th>
-                <th>Region</th>
-                <th>UN EGDI</th>
-                <th>Mobile Access %</th>
-                <th>Poverty %</th>
-                <th>Gini</th>
-                <th>DPI</th>
-                <th>AI</th>
-                <th>Quadrant</th>
-                <th>DPI Equator</th>
-                <th>Golden Zone</th>
-                <th>Confidence</th>
-              </tr>
-            </thead>
-            <tbody></tbody>
-          </table>
-        </div>
+      <canvas id="scatterplot" width="980" height="460"></canvas>
+      <div class="table-wrap">
+        <table id="countries-table">
+          <thead>
+            <tr><th>Country</th><th>ISO3</th><th>Region</th><th>DPI</th><th>AI</th><th>Confidence</th><th>Completeness</th><th>Quadrant</th></tr>
+          </thead>
+          <tbody></tbody>
+        </table>
       </div>
     </section>
 
-    <section id="assessment" class="panel section">
-      <div class="section-header">
-        <h2>Country Assessment</h2>
-        <p>Create or update country-level assessments with evidence and confidence.</p>
-      </div>
-
-      <div class="panel subtle">
-        <label>Load Existing Country
-          <select id="country-selector"></select>
-        </label>
-        <label>Start from Metadata Baseline
-          <select id="baseline-country-selector"><option value="">-- Pick Country --</option></select>
-        </label>
-        <button id="new-country" class="btn secondary">Create New Country</button>
-        <p class="small">You can assess any country. Demo data is optional and can be loaded/reset from the Data page.</p>
-      </div>
-
-      <form id="country-form" class="panel">
-        <h3>Metadata</h3>
-        <div class="form-grid">
-          <label>Country Name <input name="countryName" required /></label>
-          <label>ISO Code <input name="isoCode" maxlength="3" required /></label>
-          <label>Region <input name="region" required /></label>
-          <label>Subregion <input name="subregion" /></label>
-          <label>Population (optional) <input name="population" type="number" min="0" /></label>
-          <label>Income Group (optional) <input name="incomeGroup" /></label>
-          <label>UN EGDI (0-1) <input name="unEgovIndex" type="number" min="0" max="1" step="0.001" /></label>
-          <label>UN EGDI Rank <input name="unEgovRank" type="number" min="1" /></label>
-          <label>Mobile Internet Access % <input name="mobileAccessPct" type="number" min="0" max="100" step="0.1" /></label>
-          <label>Poverty % <input name="povertyPct" type="number" min="0" max="100" step="0.1" /></label>
-          <label>Gini Index <input name="giniIndex" type="number" min="0" max="100" step="0.1" /></label>
-          <label>Evaluator <input name="evaluator" required /></label>
-          <label>Evaluation Date <input name="evaluationDate" type="date" required /></label>
-          <label>Tags (comma-separated) <input name="tags" /></label>
-          <label>Overall Confidence (1-5) <input name="overallConfidence" type="number" min="1" max="5" required /></label>
-        </div>
-        <label>Notes
-          <textarea name="notes" rows="3"></textarea>
-        </label>
-
-        <div id="dpi-dimensions" class="dimension-block"></div>
-        <div id="ai-dimensions" class="dimension-block"></div>
-
-        <div class="panel subtle">
-          <h3>Auto-calculated Results</h3>
-          <p id="calc-summary"></p>
-          <p id="calc-narrative" class="narrative"></p>
-        </div>
-
-        <div class="actions">
-          <button type="submit" class="btn">Save Assessment</button>
-          <button type="button" id="delete-country" class="btn danger">Delete Country</button>
-        </div>
-      </form>
-
-      <div class="panel">
-        <h3>Editable Weight Configuration</h3>
-        <p class="small">Weights should sum to 100 for each maturity model.</p>
-        <div class="grid two-col">
-          <div>
-            <h4>DPI Weights</h4>
-            <div id="dpi-weights"></div>
-          </div>
-          <div>
-            <h4>AI Weights</h4>
-            <div id="ai-weights"></div>
-          </div>
-        </div>
-        <button id="save-weights" class="btn">Save Weights</button>
-      </div>
+    <section class="panel" id="country-detail">
+      <h2>Country detail</h2>
+      <p class="small">Click a row in the dashboard to inspect and manually override.</p>
+      <div id="detail-content">Select a country.</div>
     </section>
 
-    <section id="methodology" class="panel section">
-      <div class="section-header">
-        <h2>Methodology</h2>
-      </div>
-      <div class="panel subtle">
-        <h3>Scoring Framework</h3>
-        <p>Each dimension is scored from 0 to 5. Scores are normalized and combined using weighted sums to produce DPI and AI maturity scores on a 0–100 scale.</p>
-        <p><strong>Formula:</strong> weighted score = Σ((dimension score / 5) × dimension weight).</p>
-      </div>
-      <div class="panel subtle">
-        <h3>Quadrant Logic</h3>
-        <ul>
-          <li>Low DPI / Low AI: DPI &lt; DPI threshold and AI &lt; AI threshold</li>
-          <li>High DPI / Low AI: DPI ≥ DPI threshold and AI &lt; AI threshold</li>
-          <li>Low DPI / High AI: DPI &lt; DPI threshold and AI ≥ AI threshold</li>
-          <li>High DPI / High AI: DPI ≥ DPI threshold and AI ≥ AI threshold</li>
-        </ul>
-        <p>The <strong>DPI Equator</strong> is a horizontal benchmark line (default 50) to indicate whether DPI foundations are sufficiently mature for scaled transformation.</p>
-        <p>The <strong>Golden Zone</strong> identifies countries with both strong DPI and AI maturity (default DPI ≥ 70 and AI ≥ 70).</p>
-      </div>
-      <div class="panel subtle">
-        <h3>DaaS Uplift Pathway</h3>
-        <p>Data-as-a-Service (DaaS) can move countries upward on DPI maturity by improving secure identity-linked data exchange, consent architecture, and interoperability rails. This enables trusted, reusable workflows that AI systems can safely build on.</p>
-        <p>Country context variables (UN EGDI, mobile access, poverty, and inequality) should be interpreted with capacity and public-finance constraints to prioritize feasible implementation pathways.</p>
-      </div>
-      <div class="panel subtle">
-        <h3>AI Delivery Evaluation</h3>
-        <p>AI maturity is assessed across public-sector enablers and delivery mechanics, including AI building blocks, DPI workflow integration, public-service agents, and model strategy choices (LLM vs SLM).</p>
-        <p>Capacity and financing dimensions are explicitly weighted in the DPI and AI models to better reflect delivery realism in low-resource settings.</p>
-      </div>
-    </section>
-
-    <section id="data" class="panel section">
-      <div class="section-header">
-        <h2>Data Management</h2>
-      </div>
-      <div class="grid two-col">
-        <div class="panel subtle">
-          <h3>Import / Export</h3>
-          <div class="actions stacked">
-            <button id="export-json" class="btn">Export JSON</button>
-            <button id="export-csv" class="btn">Export CSV</button>
-            <label class="btn secondary file-btn">Import JSON
-              <input type="file" id="import-json" accept="application/json" />
-            </label>
-          </div>
-        </div>
-        <div class="panel subtle">
-          <h3>Backup & Restore Local Storage</h3>
-          <div class="actions stacked">
-            <button id="backup-storage" class="btn">Backup Snapshot</button>
-            <button id="restore-storage" class="btn">Restore Backup</button>
-            <button id="load-demo" class="btn secondary">Load Demo Data</button>
-            <button id="reset-data" class="btn danger">Clear All Assessments</button>
-          </div>
-        </div>
-      </div>
-      <p id="data-message" class="small"></p>
+    <section class="panel" id="methodology">
+      <h2>Methodology</h2>
+      <ul>
+        <li>Sources: DPI Map + UN EGDI snapshots, stored as local JSON in <code>/data</code>.</li>
+        <li>Scoring is deterministic and auditable.</li>
+        <li>Base DPI score = 70% DPI Map + 30% EGDI.</li>
+        <li>Base AI score is a conservative estimate: 0.6 × state capacity score.</li>
+        <li>Manual overrides always take precedence and are stored in localStorage only.</li>
+        <li>Missing data lowers confidence and completeness; values are never fabricated.</li>
+      </ul>
     </section>
   </main>
 
