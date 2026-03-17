@@ -108,10 +108,10 @@
         "population": 1547000,
         "incomeGroup": "High income",
         "evaluator": "DPI Map sync",
-        "evaluationDate": "2026-01-15",
-        "notes": "DPI metadata and rail maturity synced from dpimap.org 2026-01-15 snapshot.",
+        "evaluationDate": "2026-03-17",
+        "notes": "DPI metadata and rail maturity synced from dpimap.org 2026-03-17 snapshot.",
         "tags": [
-          "dpimap-2026-01-15",
+          "dpimap-2026-03-17",
           "pilot",
           "small-state"
         ],
@@ -127,19 +127,19 @@
           "digitalIdentity": {
             "score": 2.6,
             "justification": "DPI Map indicates identity rail count=0 and claim=Yes.",
-            "evidence": "https://dpimap.org/data/2026-01-15/2026-01-15-identity.json (last updated 01/10/24)",
+            "evidence": "https://dpimap.org/data/2026-03-17/2026-03-17-identity.json (last updated 01/10/24)",
             "confidence": 4
           },
           "payments": {
             "score": 2.0,
             "justification": "DPI Map indicates payment rail count=0 and claim=N/A.",
-            "evidence": "https://dpimap.org/data/2026-01-15/2026-01-15-payment.json (last updated 26/06/25)",
+            "evidence": "https://dpimap.org/data/2026-03-17/2026-03-17-payment.json (last updated 26/06/25)",
             "confidence": 4
           },
           "dataExchange": {
             "score": 2.0,
             "justification": "DPI Map indicates exchange rail count=0 and claim=N/A.",
-            "evidence": "https://dpimap.org/data/2026-01-15/2026-01-15-exchange.json (last updated 01/10/24)",
+            "evidence": "https://dpimap.org/data/2026-03-17/2026-03-17-exchange.json (last updated 01/10/24)",
             "confidence": 4
           },
           "credentialing": {
@@ -213,11 +213,11 @@
         "population": 1428000000,
         "incomeGroup": "Lower middle income",
         "evaluator": "DPI Map sync",
-        "evaluationDate": "2026-01-15",
-        "notes": "DPI metadata and rail maturity synced from dpimap.org 2026-01-15 snapshot.",
+        "evaluationDate": "2026-03-17",
+        "notes": "DPI metadata and rail maturity synced from dpimap.org 2026-03-17 snapshot.",
         "tags": [
           "dpi-leader",
-          "dpimap-2026-01-15",
+          "dpimap-2026-03-17",
           "scale"
         ],
         "overallConfidence": 4,
@@ -232,19 +232,19 @@
           "digitalIdentity": {
             "score": 4.2,
             "justification": "DPI Map indicates identity rail count=1 and claim=Yes.",
-            "evidence": "https://dpimap.org/data/2026-01-15/2026-01-15-identity.json (last updated 01/10/24)",
+            "evidence": "https://dpimap.org/data/2026-03-17/2026-03-17-identity.json (last updated 01/10/24)",
             "confidence": 4
           },
           "payments": {
             "score": 2.0,
             "justification": "DPI Map indicates payment rail count=0 and claim=N/A.",
-            "evidence": "https://dpimap.org/data/2026-01-15/2026-01-15-payment.json (last updated 18/09/24)",
+            "evidence": "https://dpimap.org/data/2026-03-17/2026-03-17-payment.json (last updated 18/09/24)",
             "confidence": 4
           },
           "dataExchange": {
             "score": 4.2,
             "justification": "DPI Map indicates exchange rail count=1 and claim=N/A.",
-            "evidence": "https://dpimap.org/data/2026-01-15/2026-01-15-exchange.json (last updated 01/10/24)",
+            "evidence": "https://dpimap.org/data/2026-03-17/2026-03-17-exchange.json (last updated 01/10/24)",
             "confidence": 4
           },
           "credentialing": {
@@ -306,10 +306,10 @@
         "population": 203000000,
         "incomeGroup": "Upper middle income",
         "evaluator": "DPI Map sync",
-        "evaluationDate": "2026-01-15",
-        "notes": "DPI metadata and rail maturity synced from dpimap.org 2026-01-15 snapshot.",
+        "evaluationDate": "2026-03-17",
+        "notes": "DPI metadata and rail maturity synced from dpimap.org 2026-03-17 snapshot.",
         "tags": [
-          "dpimap-2026-01-15",
+          "dpimap-2026-03-17",
           "federal",
           "large-market"
         ],
@@ -325,19 +325,19 @@
           "digitalIdentity": {
             "score": 4.2,
             "justification": "DPI Map indicates identity rail count=1 and claim=Yes.",
-            "evidence": "https://dpimap.org/data/2026-01-15/2026-01-15-identity.json (last updated 01/10/24)",
+            "evidence": "https://dpimap.org/data/2026-03-17/2026-03-17-identity.json (last updated 01/10/24)",
             "confidence": 4
           },
           "payments": {
             "score": 4.2,
             "justification": "DPI Map indicates payment rail count=1 and claim=N/A.",
-            "evidence": "https://dpimap.org/data/2026-01-15/2026-01-15-payment.json (last updated 01/10/24)",
+            "evidence": "https://dpimap.org/data/2026-03-17/2026-03-17-payment.json (last updated 01/10/24)",
             "confidence": 4
           },
           "dataExchange": {
             "score": 4.2,
             "justification": "DPI Map indicates exchange rail count=1 and claim=N/A.",
-            "evidence": "https://dpimap.org/data/2026-01-15/2026-01-15-exchange.json (last updated 01/12/25)",
+            "evidence": "https://dpimap.org/data/2026-03-17/2026-03-17-exchange.json (last updated 01/12/25)",
             "confidence": 4
           },
           "credentialing": {
@@ -399,11 +399,11 @@
         "population": 1360000,
         "incomeGroup": "High income",
         "evaluator": "DPI Map sync",
-        "evaluationDate": "2026-01-15",
-        "notes": "DPI metadata and rail maturity synced from dpimap.org 2026-01-15 snapshot.",
+        "evaluationDate": "2026-03-17",
+        "notes": "DPI metadata and rail maturity synced from dpimap.org 2026-03-17 snapshot.",
         "tags": [
           "digital-government",
-          "dpimap-2026-01-15",
+          "dpimap-2026-03-17",
           "interoperability"
         ],
         "overallConfidence": 4,
@@ -418,19 +418,19 @@
           "digitalIdentity": {
             "score": 4.2,
             "justification": "DPI Map indicates identity rail count=1 and claim=Yes.",
-            "evidence": "https://dpimap.org/data/2026-01-15/2026-01-15-identity.json (last updated 01/10/24)",
+            "evidence": "https://dpimap.org/data/2026-03-17/2026-03-17-identity.json (last updated 01/10/24)",
             "confidence": 4
           },
           "payments": {
             "score": 4.2,
             "justification": "DPI Map indicates payment rail count=1 and claim=N/A.",
-            "evidence": "https://dpimap.org/data/2026-01-15/2026-01-15-payment.json (last updated 01/10/24)",
+            "evidence": "https://dpimap.org/data/2026-03-17/2026-03-17-payment.json (last updated 01/10/24)",
             "confidence": 4
           },
           "dataExchange": {
             "score": 4.2,
             "justification": "DPI Map indicates exchange rail count=1 and claim=N/A.",
-            "evidence": "https://dpimap.org/data/2026-01-15/2026-01-15-exchange.json (last updated 01/10/24)",
+            "evidence": "https://dpimap.org/data/2026-03-17/2026-03-17-exchange.json (last updated 01/10/24)",
             "confidence": 4
           },
           "credentialing": {
@@ -492,10 +492,10 @@
         "population": 55100000,
         "incomeGroup": "Lower middle income",
         "evaluator": "DPI Map sync",
-        "evaluationDate": "2026-01-15",
-        "notes": "DPI metadata and rail maturity synced from dpimap.org 2026-01-15 snapshot.",
+        "evaluationDate": "2026-03-17",
+        "notes": "DPI metadata and rail maturity synced from dpimap.org 2026-03-17 snapshot.",
         "tags": [
-          "dpimap-2026-01-15",
+          "dpimap-2026-03-17",
           "emerging",
           "mobile-money"
         ],
@@ -511,19 +511,19 @@
           "digitalIdentity": {
             "score": 2.6,
             "justification": "DPI Map indicates identity rail count=0 and claim=Yes.",
-            "evidence": "https://dpimap.org/data/2026-01-15/2026-01-15-identity.json (last updated 01/10/24)",
+            "evidence": "https://dpimap.org/data/2026-03-17/2026-03-17-identity.json (last updated 01/10/24)",
             "confidence": 4
           },
           "payments": {
             "score": 2.0,
             "justification": "DPI Map indicates payment rail count=0 and claim=N/A.",
-            "evidence": "https://dpimap.org/data/2026-01-15/2026-01-15-payment.json (last updated 25/06/25)",
+            "evidence": "https://dpimap.org/data/2026-03-17/2026-03-17-payment.json (last updated 25/06/25)",
             "confidence": 4
           },
           "dataExchange": {
             "score": 2.0,
             "justification": "DPI Map indicates exchange rail count=0 and claim=N/A.",
-            "evidence": "https://dpimap.org/data/2026-01-15/2026-01-15-exchange.json (last updated 01/10/24)",
+            "evidence": "https://dpimap.org/data/2026-03-17/2026-03-17-exchange.json (last updated 01/10/24)",
             "confidence": 4
           },
           "credentialing": {
@@ -585,10 +585,10 @@
         "population": 223000000,
         "incomeGroup": "Lower middle income",
         "evaluator": "DPI Map sync",
-        "evaluationDate": "2026-01-15",
-        "notes": "DPI metadata and rail maturity synced from dpimap.org 2026-01-15 snapshot.",
+        "evaluationDate": "2026-03-17",
+        "notes": "DPI metadata and rail maturity synced from dpimap.org 2026-03-17 snapshot.",
         "tags": [
-          "dpimap-2026-01-15",
+          "dpimap-2026-03-17",
           "large-population",
           "startup-ecosystem"
         ],
@@ -604,19 +604,19 @@
           "digitalIdentity": {
             "score": 2.6,
             "justification": "DPI Map indicates identity rail count=0 and claim=Yes.",
-            "evidence": "https://dpimap.org/data/2026-01-15/2026-01-15-identity.json (last updated 01/12/25)",
+            "evidence": "https://dpimap.org/data/2026-03-17/2026-03-17-identity.json (last updated 01/12/25)",
             "confidence": 4
           },
           "payments": {
             "score": 2.0,
             "justification": "DPI Map indicates payment rail count=0 and claim=N/A.",
-            "evidence": "https://dpimap.org/data/2026-01-15/2026-01-15-payment.json (last updated 26/05/25)",
+            "evidence": "https://dpimap.org/data/2026-03-17/2026-03-17-payment.json (last updated 26/05/25)",
             "confidence": 4
           },
           "dataExchange": {
             "score": 4.2,
             "justification": "DPI Map indicates exchange rail count=1 and claim=N/A.",
-            "evidence": "https://dpimap.org/data/2026-01-15/2026-01-15-exchange.json (last updated 01/10/24)",
+            "evidence": "https://dpimap.org/data/2026-03-17/2026-03-17-exchange.json (last updated 01/10/24)",
             "confidence": 4
           },
           "credentialing": {
@@ -678,10 +678,10 @@
         "population": 34200000,
         "incomeGroup": "Upper middle income",
         "evaluator": "DPI Map sync",
-        "evaluationDate": "2026-01-15",
-        "notes": "DPI metadata and rail maturity synced from dpimap.org 2026-01-15 snapshot.",
+        "evaluationDate": "2026-03-17",
+        "notes": "DPI metadata and rail maturity synced from dpimap.org 2026-03-17 snapshot.",
         "tags": [
-          "dpimap-2026-01-15",
+          "dpimap-2026-03-17",
           "intermediate"
         ],
         "overallConfidence": 4,
@@ -696,19 +696,19 @@
           "digitalIdentity": {
             "score": 4.2,
             "justification": "DPI Map indicates identity rail count=1 and claim=Yes.",
-            "evidence": "https://dpimap.org/data/2026-01-15/2026-01-15-identity.json (last updated 01/12/25)",
+            "evidence": "https://dpimap.org/data/2026-03-17/2026-03-17-identity.json (last updated 01/12/25)",
             "confidence": 4
           },
           "payments": {
             "score": 4.2,
             "justification": "DPI Map indicates payment rail count=1 and claim=N/A.",
-            "evidence": "https://dpimap.org/data/2026-01-15/2026-01-15-payment.json (last updated 02/10/24)",
+            "evidence": "https://dpimap.org/data/2026-03-17/2026-03-17-payment.json (last updated 02/10/24)",
             "confidence": 4
           },
           "dataExchange": {
             "score": 4.2,
             "justification": "DPI Map indicates exchange rail count=1 and claim=N/A.",
-            "evidence": "https://dpimap.org/data/2026-01-15/2026-01-15-exchange.json (last updated 01/12/25)",
+            "evidence": "https://dpimap.org/data/2026-03-17/2026-03-17-exchange.json (last updated 01/12/25)",
             "confidence": 4
           },
           "credentialing": {
@@ -770,11 +770,11 @@
         "population": 60400000,
         "incomeGroup": "Upper middle income",
         "evaluator": "DPI Map sync",
-        "evaluationDate": "2026-01-15",
-        "notes": "DPI metadata and rail maturity synced from dpimap.org 2026-01-15 snapshot.",
+        "evaluationDate": "2026-03-17",
+        "notes": "DPI metadata and rail maturity synced from dpimap.org 2026-03-17 snapshot.",
         "tags": [
           "advanced-services",
-          "dpimap-2026-01-15"
+          "dpimap-2026-03-17"
         ],
         "overallConfidence": 4,
         "unEgovIndex": 0.74,
@@ -788,19 +788,19 @@
           "digitalIdentity": {
             "score": 2.6,
             "justification": "DPI Map indicates identity rail count=0 and claim=Yes.",
-            "evidence": "https://dpimap.org/data/2026-01-15/2026-01-15-identity.json (last updated 01/10/24)",
+            "evidence": "https://dpimap.org/data/2026-03-17/2026-03-17-identity.json (last updated 01/10/24)",
             "confidence": 4
           },
           "payments": {
             "score": 4.2,
             "justification": "DPI Map indicates payment rail count=1 and claim=N/A.",
-            "evidence": "https://dpimap.org/data/2026-01-15/2026-01-15-payment.json (last updated 30/06/25)",
+            "evidence": "https://dpimap.org/data/2026-03-17/2026-03-17-payment.json (last updated 30/06/25)",
             "confidence": 4
           },
           "dataExchange": {
             "score": 4.2,
             "justification": "DPI Map indicates exchange rail count=1 and claim=N/A.",
-            "evidence": "https://dpimap.org/data/2026-01-15/2026-01-15-exchange.json (last updated 01/10/24)",
+            "evidence": "https://dpimap.org/data/2026-03-17/2026-03-17-exchange.json (last updated 01/10/24)",
             "confidence": 4
           },
           "credentialing": {
@@ -862,11 +862,11 @@
         "population": 334000000,
         "incomeGroup": "High income",
         "evaluator": "DPI Map sync",
-        "evaluationDate": "2026-01-15",
-        "notes": "DPI metadata and rail maturity synced from dpimap.org 2026-01-15 snapshot.",
+        "evaluationDate": "2026-03-17",
+        "notes": "DPI metadata and rail maturity synced from dpimap.org 2026-03-17 snapshot.",
         "tags": [
           "ai-leader",
-          "dpimap-2026-01-15",
+          "dpimap-2026-03-17",
           "federal"
         ],
         "overallConfidence": 4,
@@ -881,19 +881,19 @@
           "digitalIdentity": {
             "score": 4.2,
             "justification": "DPI Map indicates identity rail count=1 and claim=Yes.",
-            "evidence": "https://dpimap.org/data/2026-01-15/2026-01-15-identity.json (last updated 01/10/24)",
+            "evidence": "https://dpimap.org/data/2026-03-17/2026-03-17-identity.json (last updated 01/10/24)",
             "confidence": 4
           },
           "payments": {
             "score": 4.2,
             "justification": "DPI Map indicates payment rail count=1 and claim=N/A.",
-            "evidence": "https://dpimap.org/data/2026-01-15/2026-01-15-payment.json (last updated 01/10/24)",
+            "evidence": "https://dpimap.org/data/2026-03-17/2026-03-17-payment.json (last updated 01/10/24)",
             "confidence": 4
           },
           "dataExchange": {
             "score": 4.2,
             "justification": "DPI Map indicates exchange rail count=1 and claim=N/A.",
-            "evidence": "https://dpimap.org/data/2026-01-15/2026-01-15-exchange.json (last updated 01/10/24)",
+            "evidence": "https://dpimap.org/data/2026-03-17/2026-03-17-exchange.json (last updated 01/10/24)",
             "confidence": 4
           },
           "credentialing": {
@@ -955,10 +955,10 @@
         "population": 9500000,
         "incomeGroup": "High income",
         "evaluator": "DPI Map sync",
-        "evaluationDate": "2026-01-15",
-        "notes": "DPI metadata and rail maturity synced from dpimap.org 2026-01-15 snapshot.",
+        "evaluationDate": "2026-03-17",
+        "notes": "DPI metadata and rail maturity synced from dpimap.org 2026-03-17 snapshot.",
         "tags": [
-          "dpimap-2026-01-15",
+          "dpimap-2026-03-17",
           "innovation",
           "strategy-led"
         ],
@@ -974,19 +974,19 @@
           "digitalIdentity": {
             "score": 4.2,
             "justification": "DPI Map indicates identity rail count=1 and claim=Yes.",
-            "evidence": "https://dpimap.org/data/2026-01-15/2026-01-15-identity.json (last updated 01/10/24)",
+            "evidence": "https://dpimap.org/data/2026-03-17/2026-03-17-identity.json (last updated 01/10/24)",
             "confidence": 4
           },
           "payments": {
             "score": 4.2,
             "justification": "DPI Map indicates payment rail count=1 and claim=N/A.",
-            "evidence": "https://dpimap.org/data/2026-01-15/2026-01-15-payment.json (last updated 01/10/24)",
+            "evidence": "https://dpimap.org/data/2026-03-17/2026-03-17-payment.json (last updated 01/10/24)",
             "confidence": 4
           },
           "dataExchange": {
             "score": 4.2,
             "justification": "DPI Map indicates exchange rail count=1 and claim=N/A.",
-            "evidence": "https://dpimap.org/data/2026-01-15/2026-01-15-exchange.json (last updated 01/10/24)",
+            "evidence": "https://dpimap.org/data/2026-03-17/2026-03-17-exchange.json (last updated 01/10/24)",
             "confidence": 4
           },
           "credentialing": {
