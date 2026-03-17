@@ -15,7 +15,7 @@ The app allows teams to score countries on **DPI maturity** and **AI maturity**,
 - Generates deterministic narrative summaries.
 - Persists all data in browser `localStorage`.
 - Supports JSON import/export, CSV export, and local backup/restore.
-- Includes demo seed data for 10 countries.
+- Includes optional demo seed data for 10 countries.
 
 ## Project structure
 
@@ -79,7 +79,8 @@ If you add links later, keep them **relative** (avoid leading `/`) to remain Git
   - Key: `dpiAiAssessmentDataV1`
 - Backup snapshot key: `dpiAiAssessmentDataBackupV1`
 - First run behavior:
-  - If no saved data exists, the app loads `sample-data.json`.
+  - Starts with an empty workspace so you can add any country.
+  - Demo data can be loaded manually via **Data → Load Demo Data**.
 
 ## Editing weights and thresholds
 

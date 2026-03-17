@@ -44,7 +44,9 @@ async function loadData() {
     state = JSON.parse(stored);
     return;
   }
-  await resetDemoData();
+
+  state = { settings: structuredClone(DEFAULT_SETTINGS), countries: [] };
+  saveData();
 }
 
 function saveData() {
@@ -363,7 +365,7 @@ function refreshAll() {
   renderWeightsEditor();
 
   if (!selectedCountryId && state.countries[0]) selectedCountryId = state.countries[0].id;
-  renderCountryForm(selectedCountryId);
+  renderCountryForm(selectedCountryId || null);
 }
 
 function wireEvents() {
@@ -507,6 +509,10 @@ async function init() {
   wireEvents();
   await loadData();
   refreshAll();
+
+  if (state.countries.length === 0) {
+    setDataMessage("No countries loaded yet. Use 'Create New Country' to start, or load demo data from the Data page.");
+  }
   const hash = location.hash.replace("#", "");
   if (["dashboard", "assessment", "methodology", "data"].includes(hash)) switchSection(hash);
 }
