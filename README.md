@@ -73,6 +73,27 @@ No hardcoded absolute URLs are used. If the repository name changes, GitHub Page
 
 If you add links later, keep them **relative** (avoid leading `/`) to remain GitHub Pages subpath-safe.
 
+
+## Refreshing inequality and poverty metadata
+
+To refresh `giniIndex` and `povertyPct` values in `country-metadata-baseline.json`, run:
+
+```bash
+python3 scripts/update_gini_index.py
+```
+
+Data sources used by default:
+- Gini index: World Bank indicator `SI.POV.GINI`
+- Poverty headcount metadata: `https://raw.githubusercontent.com/worldbank/pipdocs/main/metadata/json/WB_PIP_HEADCOUNT.json`
+
+The updater keeps the latest non-null observation per ISO3 country code and writes it to matching baseline records. Countries/territories without available source data remain `null`.
+
+If direct network access is blocked, you can supply local source files:
+
+```bash
+python3 scripts/update_gini_index.py --gini-file ./SI.POV.GINI.json --poverty-file ./WB_PIP_HEADCOUNT.json
+```
+
 ## Data persistence model
 
 - Primary persistence: browser `localStorage`
