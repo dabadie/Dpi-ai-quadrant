@@ -1,0 +1,5734 @@
+{
+  "lastUpdated": "2026-03-17T05:00:07Z",
+  "description": "Auto-generated country metadata template for creating country assessments.",
+  "source": "ISO 3166-1 country list from /usr/share/iso-codes/json/iso_3166-1.json",
+  "countries": [
+    {
+      "id": "ctry-afg",
+      "meta": {
+        "countryName": "Afghanistan",
+        "isoCode": "AFG",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-alb",
+      "meta": {
+        "countryName": "Albania",
+        "isoCode": "ALB",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-dza",
+      "meta": {
+        "countryName": "Algeria",
+        "isoCode": "DZA",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-asm",
+      "meta": {
+        "countryName": "American Samoa",
+        "isoCode": "ASM",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-and",
+      "meta": {
+        "countryName": "Andorra",
+        "isoCode": "AND",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-ago",
+      "meta": {
+        "countryName": "Angola",
+        "isoCode": "AGO",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-aia",
+      "meta": {
+        "countryName": "Anguilla",
+        "isoCode": "AIA",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-ata",
+      "meta": {
+        "countryName": "Antarctica",
+        "isoCode": "ATA",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-atg",
+      "meta": {
+        "countryName": "Antigua and Barbuda",
+        "isoCode": "ATG",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-arg",
+      "meta": {
+        "countryName": "Argentina",
+        "isoCode": "ARG",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-arm",
+      "meta": {
+        "countryName": "Armenia",
+        "isoCode": "ARM",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-abw",
+      "meta": {
+        "countryName": "Aruba",
+        "isoCode": "ABW",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-aus",
+      "meta": {
+        "countryName": "Australia",
+        "isoCode": "AUS",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-aut",
+      "meta": {
+        "countryName": "Austria",
+        "isoCode": "AUT",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-aze",
+      "meta": {
+        "countryName": "Azerbaijan",
+        "isoCode": "AZE",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-bhs",
+      "meta": {
+        "countryName": "Bahamas",
+        "isoCode": "BHS",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-bhr",
+      "meta": {
+        "countryName": "Bahrain",
+        "isoCode": "BHR",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-bgd",
+      "meta": {
+        "countryName": "Bangladesh",
+        "isoCode": "BGD",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-brb",
+      "meta": {
+        "countryName": "Barbados",
+        "isoCode": "BRB",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-blr",
+      "meta": {
+        "countryName": "Belarus",
+        "isoCode": "BLR",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-bel",
+      "meta": {
+        "countryName": "Belgium",
+        "isoCode": "BEL",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-blz",
+      "meta": {
+        "countryName": "Belize",
+        "isoCode": "BLZ",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-ben",
+      "meta": {
+        "countryName": "Benin",
+        "isoCode": "BEN",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-bmu",
+      "meta": {
+        "countryName": "Bermuda",
+        "isoCode": "BMU",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-btn",
+      "meta": {
+        "countryName": "Bhutan",
+        "isoCode": "BTN",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-bol",
+      "meta": {
+        "countryName": "Bolivia",
+        "isoCode": "BOL",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-bes",
+      "meta": {
+        "countryName": "Bonaire, Sint Eustatius and Saba",
+        "isoCode": "BES",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-bih",
+      "meta": {
+        "countryName": "Bosnia and Herzegovina",
+        "isoCode": "BIH",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-bwa",
+      "meta": {
+        "countryName": "Botswana",
+        "isoCode": "BWA",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-bvt",
+      "meta": {
+        "countryName": "Bouvet Island",
+        "isoCode": "BVT",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-bra",
+      "meta": {
+        "countryName": "Brazil",
+        "isoCode": "BRA",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-iot",
+      "meta": {
+        "countryName": "British Indian Ocean Territory",
+        "isoCode": "IOT",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-brn",
+      "meta": {
+        "countryName": "Brunei Darussalam",
+        "isoCode": "BRN",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-bgr",
+      "meta": {
+        "countryName": "Bulgaria",
+        "isoCode": "BGR",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-bfa",
+      "meta": {
+        "countryName": "Burkina Faso",
+        "isoCode": "BFA",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-bdi",
+      "meta": {
+        "countryName": "Burundi",
+        "isoCode": "BDI",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-cpv",
+      "meta": {
+        "countryName": "Cabo Verde",
+        "isoCode": "CPV",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-khm",
+      "meta": {
+        "countryName": "Cambodia",
+        "isoCode": "KHM",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-cmr",
+      "meta": {
+        "countryName": "Cameroon",
+        "isoCode": "CMR",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-can",
+      "meta": {
+        "countryName": "Canada",
+        "isoCode": "CAN",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-cym",
+      "meta": {
+        "countryName": "Cayman Islands",
+        "isoCode": "CYM",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-caf",
+      "meta": {
+        "countryName": "Central African Republic",
+        "isoCode": "CAF",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-tcd",
+      "meta": {
+        "countryName": "Chad",
+        "isoCode": "TCD",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-chl",
+      "meta": {
+        "countryName": "Chile",
+        "isoCode": "CHL",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-chn",
+      "meta": {
+        "countryName": "China",
+        "isoCode": "CHN",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-cxr",
+      "meta": {
+        "countryName": "Christmas Island",
+        "isoCode": "CXR",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-cck",
+      "meta": {
+        "countryName": "Cocos (Keeling) Islands",
+        "isoCode": "CCK",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-col",
+      "meta": {
+        "countryName": "Colombia",
+        "isoCode": "COL",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-com",
+      "meta": {
+        "countryName": "Comoros",
+        "isoCode": "COM",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-cog",
+      "meta": {
+        "countryName": "Congo",
+        "isoCode": "COG",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-cod",
+      "meta": {
+        "countryName": "Congo, The Democratic Republic of the",
+        "isoCode": "COD",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-cok",
+      "meta": {
+        "countryName": "Cook Islands",
+        "isoCode": "COK",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-cri",
+      "meta": {
+        "countryName": "Costa Rica",
+        "isoCode": "CRI",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-hrv",
+      "meta": {
+        "countryName": "Croatia",
+        "isoCode": "HRV",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-cub",
+      "meta": {
+        "countryName": "Cuba",
+        "isoCode": "CUB",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-cuw",
+      "meta": {
+        "countryName": "Curaçao",
+        "isoCode": "CUW",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-cyp",
+      "meta": {
+        "countryName": "Cyprus",
+        "isoCode": "CYP",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-cze",
+      "meta": {
+        "countryName": "Czechia",
+        "isoCode": "CZE",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-civ",
+      "meta": {
+        "countryName": "Côte d'Ivoire",
+        "isoCode": "CIV",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-dnk",
+      "meta": {
+        "countryName": "Denmark",
+        "isoCode": "DNK",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-dji",
+      "meta": {
+        "countryName": "Djibouti",
+        "isoCode": "DJI",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-dma",
+      "meta": {
+        "countryName": "Dominica",
+        "isoCode": "DMA",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-dom",
+      "meta": {
+        "countryName": "Dominican Republic",
+        "isoCode": "DOM",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-ecu",
+      "meta": {
+        "countryName": "Ecuador",
+        "isoCode": "ECU",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-egy",
+      "meta": {
+        "countryName": "Egypt",
+        "isoCode": "EGY",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-slv",
+      "meta": {
+        "countryName": "El Salvador",
+        "isoCode": "SLV",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-gnq",
+      "meta": {
+        "countryName": "Equatorial Guinea",
+        "isoCode": "GNQ",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-eri",
+      "meta": {
+        "countryName": "Eritrea",
+        "isoCode": "ERI",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-est",
+      "meta": {
+        "countryName": "Estonia",
+        "isoCode": "EST",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-swz",
+      "meta": {
+        "countryName": "Eswatini",
+        "isoCode": "SWZ",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-eth",
+      "meta": {
+        "countryName": "Ethiopia",
+        "isoCode": "ETH",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-flk",
+      "meta": {
+        "countryName": "Falkland Islands (Malvinas)",
+        "isoCode": "FLK",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-fro",
+      "meta": {
+        "countryName": "Faroe Islands",
+        "isoCode": "FRO",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-fji",
+      "meta": {
+        "countryName": "Fiji",
+        "isoCode": "FJI",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-fin",
+      "meta": {
+        "countryName": "Finland",
+        "isoCode": "FIN",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-fra",
+      "meta": {
+        "countryName": "France",
+        "isoCode": "FRA",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-guf",
+      "meta": {
+        "countryName": "French Guiana",
+        "isoCode": "GUF",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-pyf",
+      "meta": {
+        "countryName": "French Polynesia",
+        "isoCode": "PYF",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-atf",
+      "meta": {
+        "countryName": "French Southern Territories",
+        "isoCode": "ATF",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-gab",
+      "meta": {
+        "countryName": "Gabon",
+        "isoCode": "GAB",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-gmb",
+      "meta": {
+        "countryName": "Gambia",
+        "isoCode": "GMB",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-geo",
+      "meta": {
+        "countryName": "Georgia",
+        "isoCode": "GEO",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-deu",
+      "meta": {
+        "countryName": "Germany",
+        "isoCode": "DEU",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-gha",
+      "meta": {
+        "countryName": "Ghana",
+        "isoCode": "GHA",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-gib",
+      "meta": {
+        "countryName": "Gibraltar",
+        "isoCode": "GIB",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-grc",
+      "meta": {
+        "countryName": "Greece",
+        "isoCode": "GRC",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-grl",
+      "meta": {
+        "countryName": "Greenland",
+        "isoCode": "GRL",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-grd",
+      "meta": {
+        "countryName": "Grenada",
+        "isoCode": "GRD",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-glp",
+      "meta": {
+        "countryName": "Guadeloupe",
+        "isoCode": "GLP",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-gum",
+      "meta": {
+        "countryName": "Guam",
+        "isoCode": "GUM",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-gtm",
+      "meta": {
+        "countryName": "Guatemala",
+        "isoCode": "GTM",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-ggy",
+      "meta": {
+        "countryName": "Guernsey",
+        "isoCode": "GGY",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-gin",
+      "meta": {
+        "countryName": "Guinea",
+        "isoCode": "GIN",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-gnb",
+      "meta": {
+        "countryName": "Guinea-Bissau",
+        "isoCode": "GNB",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-guy",
+      "meta": {
+        "countryName": "Guyana",
+        "isoCode": "GUY",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-hti",
+      "meta": {
+        "countryName": "Haiti",
+        "isoCode": "HTI",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-hmd",
+      "meta": {
+        "countryName": "Heard Island and McDonald Islands",
+        "isoCode": "HMD",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-vat",
+      "meta": {
+        "countryName": "Holy See (Vatican City State)",
+        "isoCode": "VAT",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-hnd",
+      "meta": {
+        "countryName": "Honduras",
+        "isoCode": "HND",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-hkg",
+      "meta": {
+        "countryName": "Hong Kong",
+        "isoCode": "HKG",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-hun",
+      "meta": {
+        "countryName": "Hungary",
+        "isoCode": "HUN",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-isl",
+      "meta": {
+        "countryName": "Iceland",
+        "isoCode": "ISL",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-ind",
+      "meta": {
+        "countryName": "India",
+        "isoCode": "IND",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-idn",
+      "meta": {
+        "countryName": "Indonesia",
+        "isoCode": "IDN",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-irn",
+      "meta": {
+        "countryName": "Iran",
+        "isoCode": "IRN",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-irq",
+      "meta": {
+        "countryName": "Iraq",
+        "isoCode": "IRQ",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-irl",
+      "meta": {
+        "countryName": "Ireland",
+        "isoCode": "IRL",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-imn",
+      "meta": {
+        "countryName": "Isle of Man",
+        "isoCode": "IMN",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-isr",
+      "meta": {
+        "countryName": "Israel",
+        "isoCode": "ISR",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-ita",
+      "meta": {
+        "countryName": "Italy",
+        "isoCode": "ITA",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-jam",
+      "meta": {
+        "countryName": "Jamaica",
+        "isoCode": "JAM",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-jpn",
+      "meta": {
+        "countryName": "Japan",
+        "isoCode": "JPN",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-jey",
+      "meta": {
+        "countryName": "Jersey",
+        "isoCode": "JEY",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-jor",
+      "meta": {
+        "countryName": "Jordan",
+        "isoCode": "JOR",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-kaz",
+      "meta": {
+        "countryName": "Kazakhstan",
+        "isoCode": "KAZ",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-ken",
+      "meta": {
+        "countryName": "Kenya",
+        "isoCode": "KEN",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-kir",
+      "meta": {
+        "countryName": "Kiribati",
+        "isoCode": "KIR",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-kwt",
+      "meta": {
+        "countryName": "Kuwait",
+        "isoCode": "KWT",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-kgz",
+      "meta": {
+        "countryName": "Kyrgyzstan",
+        "isoCode": "KGZ",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-lao",
+      "meta": {
+        "countryName": "Laos",
+        "isoCode": "LAO",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-lva",
+      "meta": {
+        "countryName": "Latvia",
+        "isoCode": "LVA",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-lbn",
+      "meta": {
+        "countryName": "Lebanon",
+        "isoCode": "LBN",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-lso",
+      "meta": {
+        "countryName": "Lesotho",
+        "isoCode": "LSO",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-lbr",
+      "meta": {
+        "countryName": "Liberia",
+        "isoCode": "LBR",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-lby",
+      "meta": {
+        "countryName": "Libya",
+        "isoCode": "LBY",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-lie",
+      "meta": {
+        "countryName": "Liechtenstein",
+        "isoCode": "LIE",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-ltu",
+      "meta": {
+        "countryName": "Lithuania",
+        "isoCode": "LTU",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-lux",
+      "meta": {
+        "countryName": "Luxembourg",
+        "isoCode": "LUX",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-mac",
+      "meta": {
+        "countryName": "Macao",
+        "isoCode": "MAC",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-mdg",
+      "meta": {
+        "countryName": "Madagascar",
+        "isoCode": "MDG",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-mwi",
+      "meta": {
+        "countryName": "Malawi",
+        "isoCode": "MWI",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-mys",
+      "meta": {
+        "countryName": "Malaysia",
+        "isoCode": "MYS",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-mdv",
+      "meta": {
+        "countryName": "Maldives",
+        "isoCode": "MDV",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-mli",
+      "meta": {
+        "countryName": "Mali",
+        "isoCode": "MLI",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-mlt",
+      "meta": {
+        "countryName": "Malta",
+        "isoCode": "MLT",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-mhl",
+      "meta": {
+        "countryName": "Marshall Islands",
+        "isoCode": "MHL",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-mtq",
+      "meta": {
+        "countryName": "Martinique",
+        "isoCode": "MTQ",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-mrt",
+      "meta": {
+        "countryName": "Mauritania",
+        "isoCode": "MRT",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-mus",
+      "meta": {
+        "countryName": "Mauritius",
+        "isoCode": "MUS",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-myt",
+      "meta": {
+        "countryName": "Mayotte",
+        "isoCode": "MYT",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-mex",
+      "meta": {
+        "countryName": "Mexico",
+        "isoCode": "MEX",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-fsm",
+      "meta": {
+        "countryName": "Micronesia, Federated States of",
+        "isoCode": "FSM",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-mda",
+      "meta": {
+        "countryName": "Moldova",
+        "isoCode": "MDA",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-mco",
+      "meta": {
+        "countryName": "Monaco",
+        "isoCode": "MCO",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-mng",
+      "meta": {
+        "countryName": "Mongolia",
+        "isoCode": "MNG",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-mne",
+      "meta": {
+        "countryName": "Montenegro",
+        "isoCode": "MNE",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-msr",
+      "meta": {
+        "countryName": "Montserrat",
+        "isoCode": "MSR",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-mar",
+      "meta": {
+        "countryName": "Morocco",
+        "isoCode": "MAR",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-moz",
+      "meta": {
+        "countryName": "Mozambique",
+        "isoCode": "MOZ",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-mmr",
+      "meta": {
+        "countryName": "Myanmar",
+        "isoCode": "MMR",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-nam",
+      "meta": {
+        "countryName": "Namibia",
+        "isoCode": "NAM",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-nru",
+      "meta": {
+        "countryName": "Nauru",
+        "isoCode": "NRU",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-npl",
+      "meta": {
+        "countryName": "Nepal",
+        "isoCode": "NPL",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-nld",
+      "meta": {
+        "countryName": "Netherlands",
+        "isoCode": "NLD",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-ncl",
+      "meta": {
+        "countryName": "New Caledonia",
+        "isoCode": "NCL",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-nzl",
+      "meta": {
+        "countryName": "New Zealand",
+        "isoCode": "NZL",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-nic",
+      "meta": {
+        "countryName": "Nicaragua",
+        "isoCode": "NIC",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-ner",
+      "meta": {
+        "countryName": "Niger",
+        "isoCode": "NER",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-nga",
+      "meta": {
+        "countryName": "Nigeria",
+        "isoCode": "NGA",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-niu",
+      "meta": {
+        "countryName": "Niue",
+        "isoCode": "NIU",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-nfk",
+      "meta": {
+        "countryName": "Norfolk Island",
+        "isoCode": "NFK",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-prk",
+      "meta": {
+        "countryName": "North Korea",
+        "isoCode": "PRK",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-mkd",
+      "meta": {
+        "countryName": "North Macedonia",
+        "isoCode": "MKD",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-mnp",
+      "meta": {
+        "countryName": "Northern Mariana Islands",
+        "isoCode": "MNP",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-nor",
+      "meta": {
+        "countryName": "Norway",
+        "isoCode": "NOR",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-omn",
+      "meta": {
+        "countryName": "Oman",
+        "isoCode": "OMN",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-pak",
+      "meta": {
+        "countryName": "Pakistan",
+        "isoCode": "PAK",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-plw",
+      "meta": {
+        "countryName": "Palau",
+        "isoCode": "PLW",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-pse",
+      "meta": {
+        "countryName": "Palestine, State of",
+        "isoCode": "PSE",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-pan",
+      "meta": {
+        "countryName": "Panama",
+        "isoCode": "PAN",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-png",
+      "meta": {
+        "countryName": "Papua New Guinea",
+        "isoCode": "PNG",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-pry",
+      "meta": {
+        "countryName": "Paraguay",
+        "isoCode": "PRY",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-per",
+      "meta": {
+        "countryName": "Peru",
+        "isoCode": "PER",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-phl",
+      "meta": {
+        "countryName": "Philippines",
+        "isoCode": "PHL",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-pcn",
+      "meta": {
+        "countryName": "Pitcairn",
+        "isoCode": "PCN",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-pol",
+      "meta": {
+        "countryName": "Poland",
+        "isoCode": "POL",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-prt",
+      "meta": {
+        "countryName": "Portugal",
+        "isoCode": "PRT",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-pri",
+      "meta": {
+        "countryName": "Puerto Rico",
+        "isoCode": "PRI",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-qat",
+      "meta": {
+        "countryName": "Qatar",
+        "isoCode": "QAT",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-rou",
+      "meta": {
+        "countryName": "Romania",
+        "isoCode": "ROU",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-rus",
+      "meta": {
+        "countryName": "Russian Federation",
+        "isoCode": "RUS",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-rwa",
+      "meta": {
+        "countryName": "Rwanda",
+        "isoCode": "RWA",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-reu",
+      "meta": {
+        "countryName": "Réunion",
+        "isoCode": "REU",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-blm",
+      "meta": {
+        "countryName": "Saint Barthélemy",
+        "isoCode": "BLM",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-shn",
+      "meta": {
+        "countryName": "Saint Helena, Ascension and Tristan da Cunha",
+        "isoCode": "SHN",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-kna",
+      "meta": {
+        "countryName": "Saint Kitts and Nevis",
+        "isoCode": "KNA",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-lca",
+      "meta": {
+        "countryName": "Saint Lucia",
+        "isoCode": "LCA",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-maf",
+      "meta": {
+        "countryName": "Saint Martin (French part)",
+        "isoCode": "MAF",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-spm",
+      "meta": {
+        "countryName": "Saint Pierre and Miquelon",
+        "isoCode": "SPM",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-vct",
+      "meta": {
+        "countryName": "Saint Vincent and the Grenadines",
+        "isoCode": "VCT",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-wsm",
+      "meta": {
+        "countryName": "Samoa",
+        "isoCode": "WSM",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-smr",
+      "meta": {
+        "countryName": "San Marino",
+        "isoCode": "SMR",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-stp",
+      "meta": {
+        "countryName": "Sao Tome and Principe",
+        "isoCode": "STP",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-sau",
+      "meta": {
+        "countryName": "Saudi Arabia",
+        "isoCode": "SAU",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-sen",
+      "meta": {
+        "countryName": "Senegal",
+        "isoCode": "SEN",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-srb",
+      "meta": {
+        "countryName": "Serbia",
+        "isoCode": "SRB",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-syc",
+      "meta": {
+        "countryName": "Seychelles",
+        "isoCode": "SYC",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-sle",
+      "meta": {
+        "countryName": "Sierra Leone",
+        "isoCode": "SLE",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-sgp",
+      "meta": {
+        "countryName": "Singapore",
+        "isoCode": "SGP",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-sxm",
+      "meta": {
+        "countryName": "Sint Maarten (Dutch part)",
+        "isoCode": "SXM",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-svk",
+      "meta": {
+        "countryName": "Slovakia",
+        "isoCode": "SVK",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-svn",
+      "meta": {
+        "countryName": "Slovenia",
+        "isoCode": "SVN",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-slb",
+      "meta": {
+        "countryName": "Solomon Islands",
+        "isoCode": "SLB",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-som",
+      "meta": {
+        "countryName": "Somalia",
+        "isoCode": "SOM",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-zaf",
+      "meta": {
+        "countryName": "South Africa",
+        "isoCode": "ZAF",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-sgs",
+      "meta": {
+        "countryName": "South Georgia and the South Sandwich Islands",
+        "isoCode": "SGS",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-kor",
+      "meta": {
+        "countryName": "South Korea",
+        "isoCode": "KOR",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-ssd",
+      "meta": {
+        "countryName": "South Sudan",
+        "isoCode": "SSD",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-esp",
+      "meta": {
+        "countryName": "Spain",
+        "isoCode": "ESP",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-lka",
+      "meta": {
+        "countryName": "Sri Lanka",
+        "isoCode": "LKA",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-sdn",
+      "meta": {
+        "countryName": "Sudan",
+        "isoCode": "SDN",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-sur",
+      "meta": {
+        "countryName": "Suriname",
+        "isoCode": "SUR",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-sjm",
+      "meta": {
+        "countryName": "Svalbard and Jan Mayen",
+        "isoCode": "SJM",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-swe",
+      "meta": {
+        "countryName": "Sweden",
+        "isoCode": "SWE",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-che",
+      "meta": {
+        "countryName": "Switzerland",
+        "isoCode": "CHE",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-syr",
+      "meta": {
+        "countryName": "Syria",
+        "isoCode": "SYR",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-twn",
+      "meta": {
+        "countryName": "Taiwan",
+        "isoCode": "TWN",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-tjk",
+      "meta": {
+        "countryName": "Tajikistan",
+        "isoCode": "TJK",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-tza",
+      "meta": {
+        "countryName": "Tanzania",
+        "isoCode": "TZA",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-tha",
+      "meta": {
+        "countryName": "Thailand",
+        "isoCode": "THA",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-tls",
+      "meta": {
+        "countryName": "Timor-Leste",
+        "isoCode": "TLS",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-tgo",
+      "meta": {
+        "countryName": "Togo",
+        "isoCode": "TGO",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-tkl",
+      "meta": {
+        "countryName": "Tokelau",
+        "isoCode": "TKL",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-ton",
+      "meta": {
+        "countryName": "Tonga",
+        "isoCode": "TON",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-tto",
+      "meta": {
+        "countryName": "Trinidad and Tobago",
+        "isoCode": "TTO",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-tun",
+      "meta": {
+        "countryName": "Tunisia",
+        "isoCode": "TUN",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-tkm",
+      "meta": {
+        "countryName": "Turkmenistan",
+        "isoCode": "TKM",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-tca",
+      "meta": {
+        "countryName": "Turks and Caicos Islands",
+        "isoCode": "TCA",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-tuv",
+      "meta": {
+        "countryName": "Tuvalu",
+        "isoCode": "TUV",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-tur",
+      "meta": {
+        "countryName": "Türkiye",
+        "isoCode": "TUR",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-uga",
+      "meta": {
+        "countryName": "Uganda",
+        "isoCode": "UGA",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-ukr",
+      "meta": {
+        "countryName": "Ukraine",
+        "isoCode": "UKR",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-are",
+      "meta": {
+        "countryName": "United Arab Emirates",
+        "isoCode": "ARE",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-gbr",
+      "meta": {
+        "countryName": "United Kingdom",
+        "isoCode": "GBR",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-usa",
+      "meta": {
+        "countryName": "United States",
+        "isoCode": "USA",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-umi",
+      "meta": {
+        "countryName": "United States Minor Outlying Islands",
+        "isoCode": "UMI",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-ury",
+      "meta": {
+        "countryName": "Uruguay",
+        "isoCode": "URY",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-uzb",
+      "meta": {
+        "countryName": "Uzbekistan",
+        "isoCode": "UZB",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-vut",
+      "meta": {
+        "countryName": "Vanuatu",
+        "isoCode": "VUT",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-ven",
+      "meta": {
+        "countryName": "Venezuela",
+        "isoCode": "VEN",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-vnm",
+      "meta": {
+        "countryName": "Vietnam",
+        "isoCode": "VNM",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-vgb",
+      "meta": {
+        "countryName": "Virgin Islands, British",
+        "isoCode": "VGB",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-vir",
+      "meta": {
+        "countryName": "Virgin Islands, U.S.",
+        "isoCode": "VIR",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-wlf",
+      "meta": {
+        "countryName": "Wallis and Futuna",
+        "isoCode": "WLF",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-esh",
+      "meta": {
+        "countryName": "Western Sahara",
+        "isoCode": "ESH",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-yem",
+      "meta": {
+        "countryName": "Yemen",
+        "isoCode": "YEM",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-zmb",
+      "meta": {
+        "countryName": "Zambia",
+        "isoCode": "ZMB",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-zwe",
+      "meta": {
+        "countryName": "Zimbabwe",
+        "isoCode": "ZWE",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    },
+    {
+      "id": "ctry-ala",
+      "meta": {
+        "countryName": "Åland Islands",
+        "isoCode": "ALA",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": null,
+        "incomeGroup": "Unknown",
+        "unEgovIndex": null,
+        "unEgovRank": null,
+        "mobileAccessPct": null,
+        "povertyPct": null,
+        "giniIndex": null,
+        "evaluator": "Auto-generated baseline",
+        "evaluationDate": "2026-03-17",
+        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "tags": [
+          "auto-generated"
+        ],
+        "overallConfidence": 1
+      }
+    }
+  ]
+}
