@@ -23,6 +23,7 @@ The app allows teams to score countries on **DPI maturity** and **AI maturity**,
 - `styles.css` — clean policy-tool styling
 - `app.js` — data model, scoring, rendering, persistence, import/export logic
 - `sample-data.json` — seed dataset and default settings
+- `country-metadata-baseline.json` — auto-generated list of country metadata scaffolds (with `lastUpdated` timestamp) for quick country creation
 - `README.md` — usage and deployment instructions
 
 ## How to run locally
