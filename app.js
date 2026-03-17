@@ -420,13 +420,6 @@ function setDataMessage(message) {
   document.getElementById("data-message").textContent = message;
 }
 
-async function resetDemoData() {
-  const response = await fetch("./sample-data.json");
-  state = await response.json();
-  saveData();
-  refreshAll();
-}
-
 function downloadFile(filename, content, type) {
   const blob = new Blob([content], { type });
   const url = URL.createObjectURL(blob);
@@ -576,11 +569,6 @@ function wireEvents() {
     setDataMessage("Backup restored.");
   });
 
-  document.getElementById("load-demo").addEventListener("click", async () => {
-    await resetDemoData();
-    setDataMessage("Demo data loaded.");
-  });
-
   document.getElementById("reset-data").addEventListener("click", () => {
     state.countries = [];
     saveData();
@@ -608,7 +596,7 @@ async function init() {
   refreshAll();
 
   if (state.countries.length === 0) {
-    setDataMessage("No countries loaded yet. Use 'Create New Country' to start, or load demo data from the Data page.");
+    setDataMessage("No countries loaded yet. Use 'Create New Country' to start or prefill from the baseline country list.");
   }
   const hash = location.hash.replace("#", "");
   if (["dashboard", "assessment", "methodology", "data"].includes(hash)) switchSection(hash);

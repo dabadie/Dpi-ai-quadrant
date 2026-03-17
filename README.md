@@ -15,7 +15,6 @@ The app allows teams to score countries on **DPI maturity** and **AI maturity**,
 - Generates deterministic narrative summaries.
 - Persists all data in browser `localStorage`.
 - Supports JSON import/export, CSV export, and local backup/restore.
-- Includes optional demo seed data for 10 countries.
 - Assessment form can prefill any country from the baseline metadata list (without overwriting existing assessments).
 
 ## Project structure
@@ -23,13 +22,12 @@ The app allows teams to score countries on **DPI maturity** and **AI maturity**,
 - `index.html` — static multi-section UI (Dashboard, Assessment, Methodology, Data)
 - `styles.css` — clean policy-tool styling
 - `app.js` — data model, scoring, rendering, persistence, import/export logic
-- `sample-data.json` — seed dataset and default settings
 - `country-metadata-baseline.json` — metadata baseline aligned to UN e-Government Data Center + World Bank fields for quick country creation and prefill
 - `README.md` — usage and deployment instructions
 
 ## How to run locally
 
-Because this app fetches `sample-data.json`, run it from a local static server (not `file://` directly).
+Run it from a local static server (not `file://` directly).
 
 ### Option A: Python
 
@@ -67,7 +65,7 @@ Your site URL will look like:
 
 ### 3) Verify subpath compatibility
 
-This app uses relative asset paths (`styles.css`, `app.js`, `./sample-data.json`) and no backend routes, so it works when hosted under subpaths (e.g., `/country-maturity-tool/`).
+This app uses relative asset paths (`styles.css`, `app.js`, `./country-metadata-baseline.json`) and no backend routes, so it works when hosted under subpaths (e.g., `/country-maturity-tool/`).
 
 ## Updating repository name or base path
 
@@ -82,7 +80,6 @@ If you add links later, keep them **relative** (avoid leading `/`) to remain Git
 - Backup snapshot key: `dpiAiAssessmentDataBackupV1`
 - First run behavior:
   - Starts with an empty workspace so you can add any country.
-  - Demo data can be loaded manually via **Data → Load Demo Data**.
 
 ## Editing weights and thresholds
 
@@ -114,7 +111,6 @@ On the **Data** page:
 - **Export CSV**: summary table for analysis in spreadsheets.
 - **Backup Snapshot**: save a localStorage backup copy.
 - **Restore Backup**: restore latest local backup snapshot.
-- **Load Demo Data**: reset to provided sample dataset.
 - **Clear All Assessments**: remove all country entries from current workspace.
 
 ## Methodology summary
