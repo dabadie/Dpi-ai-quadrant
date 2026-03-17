@@ -95,6 +95,10 @@
               <tr>
                 <th>Country</th>
                 <th>Region</th>
+                <th>UN EGDI</th>
+                <th>Mobile Access %</th>
+                <th>Poverty %</th>
+                <th>Gini</th>
                 <th>DPI</th>
                 <th>AI</th>
                 <th>Quadrant</th>
@@ -132,6 +136,11 @@
           <label>Subregion <input name="subregion" /></label>
           <label>Population (optional) <input name="population" type="number" min="0" /></label>
           <label>Income Group (optional) <input name="incomeGroup" /></label>
+          <label>UN EGDI (0-1) <input name="unEgovIndex" type="number" min="0" max="1" step="0.001" /></label>
+          <label>UN EGDI Rank <input name="unEgovRank" type="number" min="1" /></label>
+          <label>Mobile Internet Access % <input name="mobileAccessPct" type="number" min="0" max="100" step="0.1" /></label>
+          <label>Poverty % <input name="povertyPct" type="number" min="0" max="100" step="0.1" /></label>
+          <label>Gini Index <input name="giniIndex" type="number" min="0" max="100" step="0.1" /></label>
           <label>Evaluator <input name="evaluator" required /></label>
           <label>Evaluation Date <input name="evaluationDate" type="date" required /></label>
           <label>Tags (comma-separated) <input name="tags" /></label>
@@ -196,6 +205,12 @@
       <div class="panel subtle">
         <h3>DaaS Uplift Pathway</h3>
         <p>Data-as-a-Service (DaaS) can move countries upward on DPI maturity by improving secure identity-linked data exchange, consent architecture, and interoperability rails. This enables trusted, reusable workflows that AI systems can safely build on.</p>
+        <p>Country context variables (UN EGDI, mobile access, poverty, and inequality) should be interpreted with capacity and public-finance constraints to prioritize feasible implementation pathways.</p>
+      </div>
+      <div class="panel subtle">
+        <h3>AI Delivery Evaluation</h3>
+        <p>AI maturity is assessed across public-sector enablers and delivery mechanics, including AI building blocks, DPI workflow integration, public-service agents, and model strategy choices (LLM vs SLM).</p>
+        <p>Capacity and financing dimensions are explicitly weighted in the DPI and AI models to better reflect delivery realism in low-resource settings.</p>
       </div>
     </section>
 
