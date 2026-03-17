@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-03-17T05:13:08Z",
-  "description": "Country metadata baseline scaffold aligned to UN e-Government Data Center and World Bank repository fields for rapid assessment setup.",
-  "source": "UN e-Government Data Center (EGDI context) + World Bank repository field mapping; generated baseline scaffold in-app.",
+  "lastUpdated": "2026-03-17T05:30:00Z",
+  "description": "Country metadata baseline scaffold aligned to UN e-Government Data Center + World Bank fields, with DPI Map sync metadata notes for assessment reference.",
+  "source": "UN e-Government Data Center (EGDI context) + World Bank repository field mapping; DPI Map rails snapshot references from 2026-01-15 datasets.",
   "countries": [
     {
       "id": "ctry-afg",
