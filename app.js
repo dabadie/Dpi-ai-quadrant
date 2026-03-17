@@ -11,20 +11,22 @@ const DEFAULT_SETTINGS = {
   },
   dpiDimensions: [
     { key: "digitalIdentity", name: "Digital Identity maturity", weight: 20 },
-    { key: "payments", name: "Payments maturity", weight: 20 },
+    { key: "payments", name: "Payments maturity", weight: 15 },
     { key: "dataExchange", name: "Data exchange / consent / interoperability maturity", weight: 20 },
     { key: "credentialing", name: "Credentialing / trust infrastructure", weight: 10 },
     { key: "governance", name: "Governance / safeguards / legal readiness", weight: 10 },
-    { key: "openness", name: "Openness / interoperability / modularity", weight: 10 },
-    { key: "deliveryCapacity", name: "Delivery capacity / institutional capability", weight: 10 }
+    { key: "openness", name: "Openness / interoperability / modularity", weight: 5 },
+    { key: "deliveryCapacity", name: "Delivery capacity / institutional capability", weight: 10 },
+    { key: "publicFinance", name: "Public finance readiness for digital transformation", weight: 10 }
   ],
   aiDimensions: [
-    { key: "policyReadiness", name: "National AI strategy / policy readiness", weight: 15 },
-    { key: "dataForAi", name: "Data availability and governance for AI", weight: 15 },
-    { key: "aiTalent", name: "AI talent and institutional capability", weight: 15 },
-    { key: "compute", name: "Compute / infrastructure / cloud access", weight: 10 },
-    { key: "publicAdoption", name: "AI adoption in public sector", weight: 15 },
-    { key: "ecosystem", name: "AI ecosystem / private sector / academia", weight: 10 },
+    { key: "policyReadiness", name: "National AI strategy / policy readiness", weight: 10 },
+    { key: "dataForAi", name: "Data availability and governance for AI", weight: 10 },
+    { key: "aiBlocks", name: "AI building blocks (registries, evals, guardrails, APIs)", weight: 15 },
+    { key: "dpiWorkflows", name: "AI integration with DPI workflows and service orchestration", weight: 15 },
+    { key: "agents", name: "Public-service agent deployment maturity", weight: 10 },
+    { key: "modelStrategy", name: "Model strategy fit (LLM/SLM mix, localization, cost)", weight: 10 },
+    { key: "capacityAndTalent", name: "Institutional capacity and AI talent", weight: 10 },
     { key: "safeguards", name: "Safeguards / accountability / risk management", weight: 10 },
     { key: "alignment", name: "Alignment of AI with DPI rails and workflows", weight: 10 }
   ]
@@ -189,6 +191,10 @@ function renderDashboard() {
     return `<tr>
       <td>${country.meta.countryName}</td>
       <td>${country.meta.region}</td>
+      <td>${country.meta.unEgovIndex ?? "-"}${country.meta.unEgovRank ? ` (R${country.meta.unEgovRank})` : ""}</td>
+      <td>${country.meta.mobileAccessPct ?? "-"}</td>
+      <td>${country.meta.povertyPct ?? "-"}</td>
+      <td>${country.meta.giniIndex ?? "-"}</td>
       <td>${cls.dpiScore}</td>
       <td>${cls.aiScore}</td>
       <td>${cls.quadrant}</td>
@@ -242,7 +248,7 @@ function renderCountryForm(countryId) {
   const country = state.countries.find((c) => c.id === countryId);
   const c = country || {
     id: uid(),
-    meta: { countryName: "", isoCode: "", region: "", subregion: "", population: "", incomeGroup: "", evaluator: "", evaluationDate: "", notes: "", tags: [], overallConfidence: 3 },
+    meta: { countryName: "", isoCode: "", region: "", subregion: "", population: "", incomeGroup: "", unEgovIndex: "", unEgovRank: "", mobileAccessPct: "", povertyPct: "", giniIndex: "", evaluator: "", evaluationDate: "", notes: "", tags: [], overallConfidence: 3 },
     assessments: { dpi: {}, ai: {} }
   };
 
@@ -253,6 +259,11 @@ function renderCountryForm(countryId) {
   form.subregion.value = c.meta.subregion || "";
   form.population.value = c.meta.population || "";
   form.incomeGroup.value = c.meta.incomeGroup || "";
+  form.unEgovIndex.value = c.meta.unEgovIndex ?? "";
+  form.unEgovRank.value = c.meta.unEgovRank ?? "";
+  form.mobileAccessPct.value = c.meta.mobileAccessPct ?? "";
+  form.povertyPct.value = c.meta.povertyPct ?? "";
+  form.giniIndex.value = c.meta.giniIndex ?? "";
   form.evaluator.value = c.meta.evaluator || "";
   form.evaluationDate.value = c.meta.evaluationDate || new Date().toISOString().slice(0, 10);
   form.notes.value = c.meta.notes || "";
@@ -417,6 +428,11 @@ function wireEvents() {
         subregion: form.subregion.value.trim(),
         population: form.population.value ? Number(form.population.value) : null,
         incomeGroup: form.incomeGroup.value.trim(),
+        unEgovIndex: form.unEgovIndex.value ? Number(form.unEgovIndex.value) : null,
+        unEgovRank: form.unEgovRank.value ? Number(form.unEgovRank.value) : null,
+        mobileAccessPct: form.mobileAccessPct.value ? Number(form.mobileAccessPct.value) : null,
+        povertyPct: form.povertyPct.value ? Number(form.povertyPct.value) : null,
+        giniIndex: form.giniIndex.value ? Number(form.giniIndex.value) : null,
         evaluator: form.evaluator.value.trim(),
         evaluationDate: form.evaluationDate.value,
         notes: form.notes.value.trim(),
