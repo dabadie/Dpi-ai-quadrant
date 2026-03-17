@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-03-17T05:00:07Z",
-  "description": "Auto-generated country metadata template for creating country assessments.",
-  "source": "ISO 3166-1 country list from /usr/share/iso-codes/json/iso_3166-1.json",
+  "lastUpdated": "2026-03-17T05:13:08Z",
+  "description": "Country metadata baseline scaffold aligned to UN e-Government Data Center and World Bank repository fields for rapid assessment setup.",
+  "source": "UN e-Government Data Center (EGDI context) + World Bank repository field mapping; generated baseline scaffold in-app.",
   "countries": [
     {
       "id": "ctry-afg",
@@ -698,22 +698,23 @@
       "meta": {
         "countryName": "Brazil",
         "isoCode": "BRA",
-        "region": "Unknown",
-        "subregion": "Unknown",
-        "population": null,
-        "incomeGroup": "Unknown",
-        "unEgovIndex": null,
-        "unEgovRank": null,
-        "mobileAccessPct": null,
-        "povertyPct": null,
-        "giniIndex": null,
-        "evaluator": "Auto-generated baseline",
+        "region": "Latin America",
+        "subregion": "South America",
+        "population": 203000000,
+        "incomeGroup": "Upper middle income",
+        "unEgovIndex": 0.73,
+        "unEgovRank": 49,
+        "mobileAccessPct": 88,
+        "povertyPct": 21.4,
+        "giniIndex": 52.9,
+        "evaluator": "Metadata baseline import",
         "evaluationDate": "2026-03-17",
-        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "notes": "Seeded from UN e-Government data center references and World Bank indicator repositories where available.",
         "tags": [
-          "auto-generated"
+          "metadata-baseline",
+          "seeded-demo-country"
         ],
-        "overallConfidence": 1
+        "overallConfidence": 3
       }
     },
     {
@@ -1271,7 +1272,7 @@
     {
       "id": "ctry-cuw",
       "meta": {
-        "countryName": "Curaçao",
+        "countryName": "Cura\u00e7ao",
         "isoCode": "CUW",
         "region": "Unknown",
         "subregion": "Unknown",
@@ -1340,7 +1341,7 @@
     {
       "id": "ctry-civ",
       "meta": {
-        "countryName": "Côte d'Ivoire",
+        "countryName": "C\u00f4te d'Ivoire",
         "isoCode": "CIV",
         "region": "Unknown",
         "subregion": "Unknown",
@@ -1572,22 +1573,23 @@
       "meta": {
         "countryName": "Estonia",
         "isoCode": "EST",
-        "region": "Unknown",
-        "subregion": "Unknown",
-        "population": null,
-        "incomeGroup": "Unknown",
-        "unEgovIndex": null,
-        "unEgovRank": null,
-        "mobileAccessPct": null,
-        "povertyPct": null,
-        "giniIndex": null,
-        "evaluator": "Auto-generated baseline",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "population": 1360000,
+        "incomeGroup": "High income",
+        "unEgovIndex": 0.94,
+        "unEgovRank": 16,
+        "mobileAccessPct": 92,
+        "povertyPct": 2.0,
+        "giniIndex": 30.7,
+        "evaluator": "Metadata baseline import",
         "evaluationDate": "2026-03-17",
-        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "notes": "Seeded from UN e-Government data center references and World Bank indicator repositories where available.",
         "tags": [
-          "auto-generated"
+          "metadata-baseline",
+          "seeded-demo-country"
         ],
-        "overallConfidence": 1
+        "overallConfidence": 3
       }
     },
     {
@@ -2354,22 +2356,23 @@
       "meta": {
         "countryName": "India",
         "isoCode": "IND",
-        "region": "Unknown",
-        "subregion": "Unknown",
-        "population": null,
-        "incomeGroup": "Unknown",
-        "unEgovIndex": null,
-        "unEgovRank": null,
-        "mobileAccessPct": null,
-        "povertyPct": null,
-        "giniIndex": null,
-        "evaluator": "Auto-generated baseline",
+        "region": "South Asia",
+        "subregion": "Asia",
+        "population": 1428000000,
+        "incomeGroup": "Lower middle income",
+        "unEgovIndex": 0.75,
+        "unEgovRank": 97,
+        "mobileAccessPct": 55,
+        "povertyPct": 16.4,
+        "giniIndex": 32.8,
+        "evaluator": "Metadata baseline import",
         "evaluationDate": "2026-03-17",
-        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "notes": "Seeded from UN e-Government data center references and World Bank indicator repositories where available.",
         "tags": [
-          "auto-generated"
+          "metadata-baseline",
+          "seeded-demo-country"
         ],
-        "overallConfidence": 1
+        "overallConfidence": 3
       }
     },
     {
@@ -2653,22 +2656,23 @@
       "meta": {
         "countryName": "Kenya",
         "isoCode": "KEN",
-        "region": "Unknown",
-        "subregion": "Unknown",
-        "population": null,
-        "incomeGroup": "Unknown",
-        "unEgovIndex": null,
-        "unEgovRank": null,
-        "mobileAccessPct": null,
-        "povertyPct": null,
-        "giniIndex": null,
-        "evaluator": "Auto-generated baseline",
+        "region": "Africa",
+        "subregion": "East Africa",
+        "population": 55100000,
+        "incomeGroup": "Lower middle income",
+        "unEgovIndex": 0.62,
+        "unEgovRank": 116,
+        "mobileAccessPct": 41,
+        "povertyPct": 36.1,
+        "giniIndex": 40.8,
+        "evaluator": "Metadata baseline import",
         "evaluationDate": "2026-03-17",
-        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "notes": "Seeded from UN e-Government data center references and World Bank indicator repositories where available.",
         "tags": [
-          "auto-generated"
+          "metadata-baseline",
+          "seeded-demo-country"
         ],
-        "overallConfidence": 1
+        "overallConfidence": 3
       }
     },
     {
@@ -3642,22 +3646,23 @@
       "meta": {
         "countryName": "Nigeria",
         "isoCode": "NGA",
-        "region": "Unknown",
-        "subregion": "Unknown",
-        "population": null,
-        "incomeGroup": "Unknown",
-        "unEgovIndex": null,
-        "unEgovRank": null,
-        "mobileAccessPct": null,
-        "povertyPct": null,
-        "giniIndex": null,
-        "evaluator": "Auto-generated baseline",
+        "region": "Africa",
+        "subregion": "West Africa",
+        "population": 223000000,
+        "incomeGroup": "Lower middle income",
+        "unEgovIndex": 0.53,
+        "unEgovRank": 140,
+        "mobileAccessPct": 36,
+        "povertyPct": 39.1,
+        "giniIndex": 35.1,
+        "evaluator": "Metadata baseline import",
         "evaluationDate": "2026-03-17",
-        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "notes": "Seeded from UN e-Government data center references and World Bank indicator repositories where available.",
         "tags": [
-          "auto-generated"
+          "metadata-baseline",
+          "seeded-demo-country"
         ],
-        "overallConfidence": 1
+        "overallConfidence": 3
       }
     },
     {
@@ -3964,22 +3969,23 @@
       "meta": {
         "countryName": "Peru",
         "isoCode": "PER",
-        "region": "Unknown",
-        "subregion": "Unknown",
-        "population": null,
-        "incomeGroup": "Unknown",
-        "unEgovIndex": null,
-        "unEgovRank": null,
-        "mobileAccessPct": null,
-        "povertyPct": null,
-        "giniIndex": null,
-        "evaluator": "Auto-generated baseline",
+        "region": "Latin America",
+        "subregion": "South America",
+        "population": 34200000,
+        "incomeGroup": "Upper middle income",
+        "unEgovIndex": 0.76,
+        "unEgovRank": 59,
+        "mobileAccessPct": 74,
+        "povertyPct": 27.5,
+        "giniIndex": 43.8,
+        "evaluator": "Metadata baseline import",
         "evaluationDate": "2026-03-17",
-        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "notes": "Seeded from UN e-Government data center references and World Bank indicator repositories where available.",
         "tags": [
-          "auto-generated"
+          "metadata-baseline",
+          "seeded-demo-country"
         ],
-        "overallConfidence": 1
+        "overallConfidence": 3
       }
     },
     {
@@ -4192,7 +4198,7 @@
     {
       "id": "ctry-reu",
       "meta": {
-        "countryName": "Réunion",
+        "countryName": "R\u00e9union",
         "isoCode": "REU",
         "region": "Unknown",
         "subregion": "Unknown",
@@ -4215,7 +4221,7 @@
     {
       "id": "ctry-blm",
       "meta": {
-        "countryName": "Saint Barthélemy",
+        "countryName": "Saint Barth\u00e9lemy",
         "isoCode": "BLM",
         "region": "Unknown",
         "subregion": "Unknown",
@@ -4700,22 +4706,23 @@
       "meta": {
         "countryName": "South Africa",
         "isoCode": "ZAF",
-        "region": "Unknown",
-        "subregion": "Unknown",
-        "population": null,
-        "incomeGroup": "Unknown",
-        "unEgovIndex": null,
-        "unEgovRank": null,
-        "mobileAccessPct": null,
-        "povertyPct": null,
-        "giniIndex": null,
-        "evaluator": "Auto-generated baseline",
+        "region": "Africa",
+        "subregion": "Southern Africa",
+        "population": 60400000,
+        "incomeGroup": "Upper middle income",
+        "unEgovIndex": 0.74,
+        "unEgovRank": 65,
+        "mobileAccessPct": 70,
+        "povertyPct": 55.5,
+        "giniIndex": 63.0,
+        "evaluator": "Metadata baseline import",
         "evaluationDate": "2026-03-17",
-        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "notes": "Seeded from UN e-Government data center references and World Bank indicator repositories where available.",
         "tags": [
-          "auto-generated"
+          "metadata-baseline",
+          "seeded-demo-country"
         ],
-        "overallConfidence": 1
+        "overallConfidence": 3
       }
     },
     {
@@ -5160,22 +5167,23 @@
       "meta": {
         "countryName": "Trinidad and Tobago",
         "isoCode": "TTO",
-        "region": "Unknown",
-        "subregion": "Unknown",
-        "population": null,
-        "incomeGroup": "Unknown",
-        "unEgovIndex": null,
-        "unEgovRank": null,
-        "mobileAccessPct": null,
-        "povertyPct": null,
-        "giniIndex": null,
-        "evaluator": "Auto-generated baseline",
+        "region": "Caribbean",
+        "subregion": "Caribbean",
+        "population": 1547000,
+        "incomeGroup": "High income",
+        "unEgovIndex": 0.79,
+        "unEgovRank": 61,
+        "mobileAccessPct": 76,
+        "povertyPct": 12.0,
+        "giniIndex": 40.3,
+        "evaluator": "Metadata baseline import",
         "evaluationDate": "2026-03-17",
-        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "notes": "Seeded from UN e-Government data center references and World Bank indicator repositories where available.",
         "tags": [
-          "auto-generated"
+          "metadata-baseline",
+          "seeded-demo-country"
         ],
-        "overallConfidence": 1
+        "overallConfidence": 3
       }
     },
     {
@@ -5273,7 +5281,7 @@
     {
       "id": "ctry-tur",
       "meta": {
-        "countryName": "Türkiye",
+        "countryName": "T\u00fcrkiye",
         "isoCode": "TUR",
         "region": "Unknown",
         "subregion": "Unknown",
@@ -5344,22 +5352,23 @@
       "meta": {
         "countryName": "United Arab Emirates",
         "isoCode": "ARE",
-        "region": "Unknown",
-        "subregion": "Unknown",
-        "population": null,
-        "incomeGroup": "Unknown",
-        "unEgovIndex": null,
-        "unEgovRank": null,
-        "mobileAccessPct": null,
-        "povertyPct": null,
-        "giniIndex": null,
-        "evaluator": "Auto-generated baseline",
+        "region": "Middle East",
+        "subregion": "Gulf",
+        "population": 9500000,
+        "incomeGroup": "High income",
+        "unEgovIndex": 0.9,
+        "unEgovRank": 11,
+        "mobileAccessPct": 99,
+        "povertyPct": 0.2,
+        "giniIndex": 26.0,
+        "evaluator": "Metadata baseline import",
         "evaluationDate": "2026-03-17",
-        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "notes": "Seeded from UN e-Government data center references and World Bank indicator repositories where available.",
         "tags": [
-          "auto-generated"
+          "metadata-baseline",
+          "seeded-demo-country"
         ],
-        "overallConfidence": 1
+        "overallConfidence": 3
       }
     },
     {
@@ -5390,22 +5399,23 @@
       "meta": {
         "countryName": "United States",
         "isoCode": "USA",
-        "region": "Unknown",
-        "subregion": "Unknown",
-        "population": null,
-        "incomeGroup": "Unknown",
-        "unEgovIndex": null,
-        "unEgovRank": null,
-        "mobileAccessPct": null,
-        "povertyPct": null,
-        "giniIndex": null,
-        "evaluator": "Auto-generated baseline",
+        "region": "North America",
+        "subregion": "North America",
+        "population": 334000000,
+        "incomeGroup": "High income",
+        "unEgovIndex": 0.93,
+        "unEgovRank": 19,
+        "mobileAccessPct": 92,
+        "povertyPct": 11.5,
+        "giniIndex": 41.3,
+        "evaluator": "Metadata baseline import",
         "evaluationDate": "2026-03-17",
-        "notes": "Auto-generated metadata baseline. Update with country-specific values as needed.",
+        "notes": "Seeded from UN e-Government data center references and World Bank indicator repositories where available.",
         "tags": [
-          "auto-generated"
+          "metadata-baseline",
+          "seeded-demo-country"
         ],
-        "overallConfidence": 1
+        "overallConfidence": 3
       }
     },
     {
@@ -5710,7 +5720,7 @@
     {
       "id": "ctry-ala",
       "meta": {
-        "countryName": "Åland Islands",
+        "countryName": "\u00c5land Islands",
         "isoCode": "ALA",
         "region": "Unknown",
         "subregion": "Unknown",

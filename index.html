@@ -31,6 +31,9 @@
         <div class="panel subtle">
           <h3>Filters</h3>
           <div class="form-grid compact">
+            <label>Country
+              <select id="filter-country"><option value="all">All</option></select>
+            </label>
             <label>Region
               <select id="filter-region"><option value="all">All</option></select>
             </label>
@@ -122,6 +125,9 @@
       <div class="panel subtle">
         <label>Load Existing Country
           <select id="country-selector"></select>
+        </label>
+        <label>Start from Metadata Baseline
+          <select id="baseline-country-selector"><option value="">-- Pick Country --</option></select>
         </label>
         <button id="new-country" class="btn secondary">Create New Country</button>
         <p class="small">You can assess any country. Demo data is optional and can be loaded/reset from the Data page.</p>

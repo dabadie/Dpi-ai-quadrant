@@ -33,6 +33,7 @@ const DEFAULT_SETTINGS = {
 };
 
 let state = { settings: structuredClone(DEFAULT_SETTINGS), countries: [] };
+let countryMetadataBaseline = [];
 let selectedCountryId = null;
 let chartPoints = [];
 
@@ -55,6 +56,54 @@ function saveData() {
   localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
 }
 
+
+async function loadCountryMetadataBaseline() {
+  try {
+    const response = await fetch("./country-metadata-baseline.json");
+    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+    const baseline = await response.json();
+    countryMetadataBaseline = Array.isArray(baseline.countries) ? baseline.countries : [];
+  } catch (err) {
+    countryMetadataBaseline = [];
+    setDataMessage(`Metadata baseline could not be loaded: ${err.message}`);
+  }
+}
+
+function loadCountryFromBaseline(countryId) {
+  const baseline = countryMetadataBaseline.find((c) => c.id === countryId);
+  if (!baseline) return;
+  const existing = state.countries.find((c) => c.meta.isoCode === baseline.meta.isoCode);
+
+  if (existing) {
+    selectedCountryId = existing.id;
+    renderCountrySelector();
+    renderCountryForm(existing.id);
+    return;
+  }
+
+  selectedCountryId = null;
+  renderCountryForm(null);
+
+  const form = document.getElementById("country-form");
+  form.countryName.value = baseline.meta.countryName || "";
+  form.isoCode.value = baseline.meta.isoCode || "";
+  form.region.value = baseline.meta.region || "";
+  form.subregion.value = baseline.meta.subregion || "";
+  form.population.value = baseline.meta.population ?? "";
+  form.incomeGroup.value = baseline.meta.incomeGroup || "";
+  form.unEgovIndex.value = baseline.meta.unEgovIndex ?? "";
+  form.unEgovRank.value = baseline.meta.unEgovRank ?? "";
+  form.mobileAccessPct.value = baseline.meta.mobileAccessPct ?? "";
+  form.povertyPct.value = baseline.meta.povertyPct ?? "";
+  form.giniIndex.value = baseline.meta.giniIndex ?? "";
+  form.evaluator.value = baseline.meta.evaluator || "";
+  form.evaluationDate.value = baseline.meta.evaluationDate || new Date().toISOString().slice(0, 10);
+  form.notes.value = baseline.meta.notes || "";
+  form.tags.value = (baseline.meta.tags || []).join(", ");
+  form.overallConfidence.value = baseline.meta.overallConfidence || 1;
+
+  updateCalculationPreview();
+}
 function computeWeightedScore(dimensionList, scores) {
   return dimensionList.reduce((total, dim) => {
     const raw = Number(scores?.[dim.key]?.score || 0);
@@ -101,6 +150,7 @@ function switchSection(target) {
 }
 
 function getVisibleCountries() {
+  const countryFilter = document.getElementById("filter-country").value;
   const region = document.getElementById("filter-region").value;
   const confMin = Number(document.getElementById("filter-confidence").value);
   const status = document.getElementById("filter-status").value;
@@ -110,6 +160,7 @@ function getVisibleCountries() {
     const cls = computeCountryClassification(country);
     const tags = (country.meta.tags || []).join(",").toLowerCase();
 
+    if (countryFilter !== "all" && country.id !== countryFilter) return false;
     if (region !== "all" && country.meta.region !== region) return false;
     if (Number(country.meta.overallConfidence || 0) < confMin) return false;
     if (tag && !tags.includes(tag)) return false;
@@ -214,11 +265,34 @@ function renderCountrySelector() {
     .join("");
   if (selectedCountryId) select.value = selectedCountryId;
 
-  const regions = [...new Set(state.countries.map((c) => c.meta.region).filter(Boolean))].sort();
+  const allCountries = [...state.countries, ...countryMetadataBaseline]
+    .reduce((acc, country) => {
+      if (!acc.some((item) => item.id === country.id)) acc.push(country);
+      return acc;
+    }, [])
+    .sort((a, b) => (a.meta.countryName || "").localeCompare(b.meta.countryName || ""));
+
+  const dashboardCountrySelect = document.getElementById("filter-country");
+  const currentCountryFilter = dashboardCountrySelect.value || "all";
+  dashboardCountrySelect.innerHTML = '<option value="all">All</option>' + allCountries
+    .map((c) => `<option value="${c.id}">${c.meta.countryName}</option>`)
+    .join("");
+  dashboardCountrySelect.value = allCountries.some((c) => c.id === currentCountryFilter) ? currentCountryFilter : "all";
+
+  const regions = [...new Set(allCountries.map((c) => c.meta.region).filter(Boolean))].sort();
   const regionSelect = document.getElementById("filter-region");
   const current = regionSelect.value || "all";
   regionSelect.innerHTML = '<option value="all">All</option>' + regions.map((r) => `<option value="${r}">${r}</option>`).join("");
   regionSelect.value = regions.includes(current) ? current : "all";
+
+  const baselineSelector = document.getElementById("baseline-country-selector");
+  const selectedBaseline = baselineSelector.value || "";
+  baselineSelector.innerHTML = '<option value="">-- Pick Country --</option>' + countryMetadataBaseline
+    .slice()
+    .sort((a, b) => a.meta.countryName.localeCompare(b.meta.countryName))
+    .map((c) => `<option value="${c.id}">${c.meta.countryName}</option>`)
+    .join("");
+  baselineSelector.value = countryMetadataBaseline.some((c) => c.id === selectedBaseline) ? selectedBaseline : "";
 }
 
 function dimensionCardHtml(prefix, dim, value = {}) {
@@ -384,7 +458,7 @@ function wireEvents() {
     btn.addEventListener("click", () => switchSection(btn.dataset.section));
   });
 
-  ["filter-region", "filter-confidence", "filter-status", "filter-tag", "toggle-labels"].forEach((id) => {
+  ["filter-country", "filter-region", "filter-confidence", "filter-status", "filter-tag", "toggle-labels"].forEach((id) => {
     document.getElementById(id).addEventListener("input", renderDashboard);
   });
 
@@ -403,6 +477,13 @@ function wireEvents() {
   document.getElementById("country-selector").addEventListener("change", (e) => {
     selectedCountryId = e.target.value || null;
     if (selectedCountryId) renderCountryForm(selectedCountryId);
+  });
+
+
+  document.getElementById("baseline-country-selector").addEventListener("change", (e) => {
+    if (!e.target.value) return;
+    loadCountryFromBaseline(e.target.value);
+    switchSection("assessment");
   });
 
   document.getElementById("new-country").addEventListener("click", () => {
@@ -523,7 +604,7 @@ function wireEvents() {
 
 async function init() {
   wireEvents();
-  await loadData();
+  await Promise.all([loadData(), loadCountryMetadataBaseline()]);
   refreshAll();
 
   if (state.countries.length === 0) {
