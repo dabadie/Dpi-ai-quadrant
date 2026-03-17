@@ -13,11 +13,12 @@ const DEFAULT_SETTINGS = {
     { key: "digitalIdentity", name: "Digital Identity maturity", weight: 20 },
     { key: "payments", name: "Payments maturity", weight: 15 },
     { key: "dataExchange", name: "Data exchange / consent / interoperability maturity", weight: 20 },
+    { key: "daasImplementation", name: "DaaS project implemented (Yes = 5, No = 0)", weight: 5 },
     { key: "credentialing", name: "Credentialing / trust infrastructure", weight: 10 },
     { key: "governance", name: "Governance / safeguards / legal readiness", weight: 10 },
     { key: "openness", name: "Openness / interoperability / modularity", weight: 5 },
     { key: "deliveryCapacity", name: "Delivery capacity / institutional capability", weight: 10 },
-    { key: "publicFinance", name: "Public finance readiness for digital transformation", weight: 10 }
+    { key: "publicFinance", name: "Public finance readiness for digital transformation", weight: 5 }
   ],
   aiDimensions: [
     { key: "policyReadiness", name: "National AI strategy / policy readiness", weight: 10 },
@@ -44,7 +45,7 @@ function uid() {
 async function loadData() {
   const stored = localStorage.getItem(STORAGE_KEY);
   if (stored) {
-    state = JSON.parse(stored);
+    state = normalizeState(JSON.parse(stored));
     return;
   }
 
@@ -54,6 +55,24 @@ async function loadData() {
 
 function saveData() {
   localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
+}
+
+function mergeDimensions(saved = [], defaults = []) {
+  return defaults.map((dim) => {
+    const existing = saved.find((item) => item.key === dim.key);
+    return existing ? { ...dim, ...existing, key: dim.key, name: dim.name } : { ...dim };
+  });
+}
+
+function normalizeState(rawState = {}) {
+  return {
+    settings: {
+      thresholds: { ...DEFAULT_SETTINGS.thresholds, ...(rawState.settings?.thresholds || {}) },
+      dpiDimensions: mergeDimensions(rawState.settings?.dpiDimensions || [], DEFAULT_SETTINGS.dpiDimensions),
+      aiDimensions: mergeDimensions(rawState.settings?.aiDimensions || [], DEFAULT_SETTINGS.aiDimensions)
+    },
+    countries: Array.isArray(rawState.countries) ? rawState.countries : []
+  };
 }
 
 
@@ -296,6 +315,24 @@ function renderCountrySelector() {
 }
 
 function dimensionCardHtml(prefix, dim, value = {}) {
+  if (dim.key === "daasImplementation") {
+    const implemented = Number(value.score || 0) >= 5;
+    return `<div class="dimension-card" data-key="${dim.key}">
+      <h4>${dim.name} (Weight ${dim.weight})</h4>
+      <div class="form-grid compact">
+        <label>DaaS implementation status
+          <select data-field="binary" required>
+            <option value="0" ${implemented ? "" : "selected"}>No</option>
+            <option value="5" ${implemented ? "selected" : ""}>Yes</option>
+          </select>
+        </label>
+        <label>Dimension Confidence (optional)<input type="number" min="1" max="5" data-field="confidence" value="${value.confidence ?? ""}"></label>
+      </div>
+      <label>Justification<input type="text" data-field="justification" value="${value.justification ?? ""}"></label>
+      <label>Evidence / Source<input type="text" data-field="evidence" value="${value.evidence ?? ""}"></label>
+    </div>`;
+  }
+
   return `<div class="dimension-card" data-key="${dim.key}">
     <h4>${dim.name} (Weight ${dim.weight})</h4>
     <div class="form-grid compact">
@@ -354,8 +391,9 @@ function collectDimensionValues(containerId) {
   const result = {};
   document.querySelectorAll(`#${containerId} .dimension-card`).forEach((card) => {
     const key = card.dataset.key;
+    const binaryControl = card.querySelector('[data-field="binary"]');
     result[key] = {
-      score: Number(card.querySelector('[data-field="score"]').value || 0),
+      score: Number((binaryControl ? binaryControl.value : card.querySelector('[data-field="score"]').value) || 0),
       confidence: card.querySelector('[data-field="confidence"]').value ? Number(card.querySelector('[data-field="confidence"]').value) : null,
       justification: card.querySelector('[data-field="justification"]').value.trim(),
       evidence: card.querySelector('[data-field="evidence"]').value.trim()
@@ -405,7 +443,7 @@ function importJSON(file) {
     try {
       const parsed = JSON.parse(String(reader.result));
       if (!parsed.settings || !Array.isArray(parsed.countries)) throw new Error("Invalid schema");
-      state = parsed;
+      state = normalizeState(parsed);
       saveData();
       refreshAll();
       setDataMessage("Data imported successfully.");
@@ -485,6 +523,12 @@ function wireEvents() {
   });
 
   document.getElementById("country-form").addEventListener("input", (e) => {
+    if (e.target.closest("#dpi-dimensions") || e.target.closest("#ai-dimensions") || e.target.form) {
+      updateCalculationPreview();
+    }
+  });
+
+  document.getElementById("country-form").addEventListener("change", (e) => {
     if (e.target.closest("#dpi-dimensions") || e.target.closest("#ai-dimensions") || e.target.form) {
       updateCalculationPreview();
     }
