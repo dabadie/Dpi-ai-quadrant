@@ -1,141 +1,84 @@
-# Country AI/DPI Quadrant Assessment Tool
+# DPI / AI Quadrant (Static GitHub Pages)
 
-A fully static, browser-only internal assessment website for the Centre for DPI.
+This project is a fully static country dashboard that preloads a global country list and enriched base scores from local JSON files.
 
-The app allows teams to score countries on **DPI maturity** and **AI maturity**, place countries on a 2x2 matrix, and track whether each country is above/below the **DPI Equator** and inside/outside the **Golden Zone**.
+## Purpose
 
-## What the tool does
+- Load all countries from a canonical static list.
+- Enrich countries with DPI Map and UN EGDI source snapshots.
+- Compute transparent base DPI/AI estimates.
+- Allow manual country-level overrides in the browser.
+- Remain GitHub Pages compatible (subpath-safe, no backend, no runtime external APIs).
 
-- Scores countries across weighted DPI and AI dimensions (0–5 per dimension).
-- Converts scores to weighted totals out of 100.
-- Classifies each country into one of four quadrants.
-- Shows a dashboard scatterplot (AI on X axis, DPI on Y axis).
-- Supports filtering by country, region, confidence, tags, and status.
-- Captures justifications, evidence, and optional dimension confidence.
-- Generates deterministic narrative summaries.
-- Persists all data in browser `localStorage`.
-- Supports JSON import/export, CSV export, and local backup/restore.
-- Includes optional demo seed data for 10 countries.
-- Assessment form can prefill any country from the baseline metadata list (without overwriting existing assessments).
+## Repository layout
 
-## Project structure
+- `data/` static datasets used at runtime.
+- `scripts/` optional ingestion + normalization scripts.
+- `index.html`, `styles.css`, `app.js` frontend runtime.
 
-- `index.html` — static multi-section UI (Dashboard, Assessment, Methodology, Data)
-- `styles.css` — clean policy-tool styling
-- `app.js` — data model, scoring, rendering, persistence, import/export logic
-- `sample-data.json` — seed dataset and default settings
-- `country-metadata-baseline.json` — metadata baseline aligned to UN e-Government Data Center + World Bank fields for quick country creation and prefill
-- `README.md` — usage and deployment instructions
+## Data pipeline (offline-prepared, browser-consumed)
 
-## How to run locally
+Frontend reads only:
 
-Because this app fetches `sample-data.json`, run it from a local static server (not `file://` directly).
+- `./data/countries.enriched.json`
 
-### Option A: Python
+Preparation scripts generate this file from raw snapshots:
+
+```bash
+node scripts/fetch-dpimap.js
+node scripts/fetch-unegov.js
+node scripts/build-countries.js
+```
+
+Or in one line:
+
+```bash
+node scripts/fetch-dpimap.js && node scripts/fetch-unegov.js && node scripts/build-countries.js
+```
+
+Generated files:
+
+- `data/dpimap.raw.json`
+- `data/dpimap.normalized.json`
+- `data/unegov.raw.json`
+- `data/unegov.normalized.json`
+- `data/countries.base.json`
+- `data/countries.enriched.json`
+- `data/country-aliases.json`
+
+## Scoring formulas
+
+- `computeDpimapBaseScore`: average pillar score (`dpi_like=100`, `pilot=50`, `none=0`).
+- `computeStateCapacityScore`: `EGDI * 100`.
+- `computeDpiBaseScore`: `0.7 * dpimap + 0.3 * egdi`.
+- `computeAiBaseScore`: `0.6 * stateCapacity` (estimated proxy).
+- `computeConfidence`: high/medium/low by source availability.
+- `computeDataCompleteness`: high/medium/low by pillar + EGDI coverage.
+
+## Manual overrides
+
+- Saved in browser `localStorage` (`dpiAiManualOverridesV2`).
+- Overrides are merged on top of immutable base data.
+- Final dashboard scores use manual values when present.
+
+## Local run
 
 ```bash
 python3 -m http.server 8080
 ```
 
-Open: `http://localhost:8080`
+Open:
 
-### Option B: VS Code Live Server
-
-- Open the repository in VS Code.
-- Start Live Server for the root folder.
+- `http://localhost:8080/#dashboard`
 
 ## GitHub Pages deployment
 
-This app is designed for GitHub Pages and works under repository subpaths.
+- Push repo to default branch.
+- Enable Pages from root.
+- Keep relative paths (`./data/...`, `styles.css`, `app.js`) for subpath compatibility.
 
-### 1) Push files to your repository
+## Known limitations
 
-Ensure these files are in your default branch (for example `main`).
-
-### 2) Enable GitHub Pages
-
-1. Go to **Repository → Settings → Pages**.
-2. Under **Build and deployment**, choose:
-   - **Source**: `Deploy from a branch`
-   - **Branch**: `main` (or your target branch)
-   - **Folder**: `/ (root)`
-3. Save.
-
-Your site URL will look like:
-
-- `https://<org-or-user>.github.io/<repository-name>/`
-
-### 3) Verify subpath compatibility
-
-This app uses relative asset paths (`styles.css`, `app.js`, `./sample-data.json`) and no backend routes, so it works when hosted under subpaths (e.g., `/country-maturity-tool/`).
-
-## Updating repository name or base path
-
-No hardcoded absolute URLs are used. If the repository name changes, GitHub Pages will still work without code changes in most cases.
-
-If you add links later, keep them **relative** (avoid leading `/`) to remain GitHub Pages subpath-safe.
-
-## Data persistence model
-
-- Primary persistence: browser `localStorage`
-  - Key: `dpiAiAssessmentDataV1`
-- Backup snapshot key: `dpiAiAssessmentDataBackupV1`
-- First run behavior:
-  - Starts with an empty workspace so you can add any country.
-  - Demo data can be loaded manually via **Data → Load Demo Data**.
-
-## Editing weights and thresholds
-
-### Thresholds/Zones (Dashboard)
-
-Update and save:
-
-- DPI threshold (default 50)
-- AI threshold (default 50)
-- DPI Equator (default 50)
-- Golden Zone AI minimum (default 70)
-- Golden Zone DPI minimum (default 70)
-
-### Weights (Assessment page)
-
-Edit DPI/AI dimension weights and click **Save Weights**.
-
-Recommended practice:
-
-- Keep DPI weights summing to 100.
-- Keep AI weights summing to 100.
-
-## Import/export assessments
-
-On the **Data** page:
-
-- **Export JSON**: full settings + countries snapshot.
-- **Import JSON**: restore compatible app data schema.
-- **Export CSV**: summary table for analysis in spreadsheets.
-- **Backup Snapshot**: save a localStorage backup copy.
-- **Restore Backup**: restore latest local backup snapshot.
-- **Load Demo Data**: reset to provided sample dataset.
-- **Clear All Assessments**: remove all country entries from current workspace.
-
-## Methodology summary
-
-- Dimension score scale: 0 to 5.
-- Weighted formula:
-  - `Σ((dimension_score / 5) × dimension_weight)`
-- Country outputs:
-  - DPI score (0–100)
-  - AI score (0–100)
-  - Quadrant classification
-  - Above/below DPI Equator
-  - Golden Zone yes/no
-
-DaaS pathway framing is included to guide strategy from foundational DPI rails toward more advanced AI-enabled public service delivery.
-
-## Future extension ideas
-
-- Radar chart per country
-- Side-by-side country comparison
-- Confidence heatmap
-- DaaS recommendations panel
-- Printable scorecard view
-- Audit log/version history in exported JSON
+- DPI Map fetch can fail in restricted environments; a warning is stored in `dpimap.raw.json`.
+- UN EGDI raw script currently snapshots local baseline fields and should be replaced with a direct UN parser when a stable machine-readable export is available.
+- Some countries may remain low-confidence where source coverage is incomplete.
